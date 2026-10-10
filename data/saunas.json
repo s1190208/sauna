@@ -135,7 +135,7 @@
     "tier": "1",
     "note": "",
     "area": "",
-    "photo": "https://trvimg.r10s.jp/share/image_up/68219/LARGE/80a01c5391a74191184408750f786b39a8f3aec6.47.9.26.3.jpg",
+    "photo": "https://prcdn.freetls.fastly.net/release_image/29463/185/29463-185-934e1f8de94512b62c605c0231046df9-3900x2925.jpg",
     "ordinal": 1,
     "officialUrl": "https://www.saunahokuou.com/",
     "siteStatus": "verified",
@@ -144,12 +144,13 @@
     "originalName": "北欧",
     "nameSource": "https://www.saunahokuou.com/",
     "nameReview": "official-site",
-    "photoSource": "https://hotel.travel.rakuten.co.jp/hotelinfo/plan/68219/?f_camp_id=3362620&f_teikei=",
-    "photoCredit": "楽天トラベル 北欧の施設掲載写真",
-    "photoSubject": "北欧のサウナ室",
-    "photoType": "listing-photo",
-    "photoUsageStatus": "該当施設の写真を画像検索と掲載記事で確認。外部画像URLへのリンク表示のみ。画像転載・二次利用の許諾は未確認。",
-    "photoDiscovery": "image-search-matched"
+    "photoSource": "https://prtimes.jp/main/html/rd/p/000000185.000029463.html",
+    "photoCredit": "株式会社バルクオム プレスリリース（北欧コラボ・PR TIMES）",
+    "photoSubject": "サウナ＆カプセルホテル北欧のサウナ室",
+    "photoType": "press-release-photo",
+    "photoUsageStatus": "北欧のサウナ室を写した掲載元画像URLに差し替え（旧画像はGitHub Actionsで404）。再利用許諾は未確認。",
+    "photoDiscovery": "image-search-matched",
+    "photoSourceReviewedAt": "2026-10-10"
   },
   {
     "id": "sauna-1-03",
