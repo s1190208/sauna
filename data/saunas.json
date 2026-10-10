@@ -43,7 +43,7 @@
   },
   {
     "id": "sauna-hall-03",
-    "name": "il azzurri",
+    "name": "il azzurri（イル・アズーリ）",
     "tier": "hall",
     "note": "",
     "area": "",
@@ -156,7 +156,7 @@
   },
   {
     "id": "sauna-1-5-01",
-    "name": "ウェルビー今池",
+    "name": "サウナ＆カプセル ウェルビー今池",
     "tier": "1.5",
     "note": "",
     "area": "",
@@ -170,7 +170,10 @@
     "photoCredit": "Chill+",
     "photoSubject": "ウェルビー今池・サウナ室",
     "photoType": "media-photo",
-    "photoUsageStatus": "外部掲載の画像URLを直接参照。転載許諾の有無は未確認。"
+    "photoUsageStatus": "外部掲載の画像URLを直接参照。転載許諾の有無は未確認。",
+    "originalName": "ウェルビー今池",
+    "nameSource": "https://www.wellbe.co.jp/imaike/",
+    "nameReview": "official-site"
   },
   {
     "id": "sauna-1-5-02",
@@ -203,7 +206,7 @@
   },
   {
     "id": "sauna-2-01",
-    "name": "かるまる",
+    "name": "サウナ＆ホテルかるまる 池袋",
     "tier": "2",
     "note": "1人限定で、サウナ種類豊富",
     "area": "",
@@ -212,7 +215,10 @@
     "officialUrl": "https://karumaru.jp/ikebukuro/",
     "siteStatus": "verified",
     "closed": false,
-    "siteNote": ""
+    "siteNote": "",
+    "originalName": "かるまる",
+    "nameSource": "https://karumaru.jp/ikebukuro/",
+    "nameReview": "official-site"
   },
   {
     "id": "sauna-2-02",
@@ -229,7 +235,7 @@
   },
   {
     "id": "sauna-2-03",
-    "name": "金の亀",
+    "name": "生姜サウナ 金の亀",
     "tier": "2",
     "note": "",
     "area": "",
@@ -238,7 +244,10 @@
     "officialUrl": "https://kinnokame.com/",
     "siteStatus": "verified",
     "closed": false,
-    "siteNote": ""
+    "siteNote": "",
+    "originalName": "金の亀",
+    "nameSource": "https://kinnokame.com/",
+    "nameReview": "official-site"
   },
   {
     "id": "sauna-2-04",
@@ -555,7 +564,7 @@
   },
   {
     "id": "sauna-3-07",
-    "name": "saunas",
+    "name": "渋谷SAUNAS",
     "tier": "3",
     "note": "",
     "area": "",
@@ -564,7 +573,10 @@
     "officialUrl": "https://saunas-saunas.com/shibuya/",
     "siteStatus": "verified",
     "closed": false,
-    "siteNote": ""
+    "siteNote": "",
+    "originalName": "saunas",
+    "nameSource": "https://saunas-saunas.com/shibuya/",
+    "nameReview": "official-site"
   },
   {
     "id": "sauna-3-08",
@@ -607,7 +619,7 @@
   },
   {
     "id": "sauna-3-11",
-    "name": "笹塚マルシンスパ",
+    "name": "天空のアジト マルシンスパ",
     "tier": "3",
     "note": "",
     "area": "",
@@ -616,7 +628,10 @@
     "officialUrl": "https://www.marushinspa.jp/",
     "siteStatus": "verified",
     "closed": false,
-    "siteNote": ""
+    "siteNote": "",
+    "originalName": "笹塚マルシンスパ",
+    "nameSource": "https://www.marushinspa.jp/",
+    "nameReview": "official-site"
   },
   {
     "id": "sauna-3-12",
