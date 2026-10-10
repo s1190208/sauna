@@ -48,7 +48,7 @@
     "tier": "hall",
     "note": "",
     "area": "",
-    "photo": "",
+    "photo": "https://www.img-ikyu.com/contents/common/image/acc0/00000960/1/org/12689273.jpg?auto=compress%2Cformat&fit=clamp&lossless=0&w=2560",
     "ordinal": 2,
     "officialUrl": "https://ilazzurri.by-onko-chishin.com/",
     "siteStatus": "verified",
@@ -56,7 +56,13 @@
     "siteNote": "",
     "originalName": "il-azzurri",
     "nameSource": "https://il-azzurri.com/",
-    "nameReview": "official-site"
+    "nameReview": "official-site",
+    "photoSource": "https://majarenonsentravel.com/ilazzurri/",
+    "photoCredit": "一休.com掲載のイル・アズーリ客室サウナ写真（まじゃれんブログ掲載ページ）",
+    "photoSubject": "海を望むテラスのバレルサウナ",
+    "photoType": "publisher-photo",
+    "photoUsageStatus": "施設実写真の掲載元を特定。外部画像URLにリンクし表示。掲載元・著作権者からの再掲載許諾は未確認。",
+    "photoSourceReviewedAt": "2026-10-10"
   },
   {
     "id": "sauna-hall-04",
@@ -86,7 +92,7 @@
     "tier": "hall",
     "note": "",
     "area": "",
-    "photo": "",
+    "photo": "https://cdn-ak.f.st-hatena.com/images/fotolife/s/saunology/20210605/20210605142353.png",
     "ordinal": 4,
     "officialUrl": "https://yunoizumi.com/atsugi/",
     "siteStatus": "verified",
@@ -94,7 +100,13 @@
     "siteNote": "",
     "originalName": "厚木健康センター",
     "nameSource": "https://yunoizumi.com/atsugi/",
-    "nameReview": "official-site"
+    "nameReview": "official-site",
+    "photoSource": "https://saunology.hatenablog.com/entry/sauna-waterbath11",
+    "photoCredit": "Saunology — Studies on Sauna",
+    "photoSubject": "閉館前の東名厚木健康センターのサウナ室",
+    "photoType": "publisher-photo",
+    "photoUsageStatus": "施設実写真の掲載元を特定。外部画像URLにリンクし表示。掲載元・著作権者からの再掲載許諾は未確認。",
+    "photoSourceReviewedAt": "2026-10-10"
   },
   {
     "id": "sauna-1-01",
@@ -189,7 +201,7 @@
     "tier": "1.5",
     "note": "",
     "area": "",
-    "photo": "",
+    "photo": "https://image.saita-puls.com/cdn-cgi/image/width%3D1040%2Cquality%3D90%2Cfit%3Dscale-down%2Cformat%3Dwebp/https%3A/image.saita-puls.com/article/23961/fXsL4ZUBLYzdBqCCLHDC91gKxnEgLRSy7xB43jGb.jpeg",
     "ordinal": 1,
     "officialUrl": "https://www.daitoyo.co.jp/spa/mens/",
     "siteStatus": "verified",
@@ -197,7 +209,13 @@
     "siteNote": "",
     "originalName": "大東洋",
     "nameSource": "https://www.daitoyo.co.jp/spa/mens/",
-    "nameReview": "official-site"
+    "nameReview": "official-site",
+    "photoSource": "https://saita-puls.com/23961",
+    "photoCredit": "saita — 大東洋サウナ体験記事",
+    "photoSubject": "大東洋の木製サウナ室",
+    "photoType": "publisher-photo",
+    "photoUsageStatus": "施設実写真の掲載元を特定。外部画像URLにリンクし表示。掲載元・著作権者からの再掲載許諾は未確認。",
+    "photoSourceReviewedAt": "2026-10-10"
   },
   {
     "id": "sauna-1-5-03",
@@ -227,7 +245,7 @@
     "tier": "2",
     "note": "1人限定で、サウナ種類豊富",
     "area": "",
-    "photo": "",
+    "photo": "https://www.luci.co.jp/led/jp/assets/img/gallery/karumaru/karumaru_main.jpg",
     "ordinal": 0,
     "officialUrl": "https://karumaru.jp/ikebukuro/",
     "siteStatus": "verified",
@@ -235,7 +253,13 @@
     "siteNote": "",
     "originalName": "かるまる",
     "nameSource": "https://karumaru.jp/ikebukuro/",
-    "nameReview": "official-site"
+    "nameReview": "official-site",
+    "photoSource": "https://www.luci.co.jp/led/en/gallery/karumaru/",
+    "photoCredit": "Luci照明 — かるまる池袋の施工紹介",
+    "photoSubject": "かるまる池袋の木製サウナ室",
+    "photoType": "publisher-photo",
+    "photoUsageStatus": "施設実写真の掲載元を特定。外部画像URLにリンクし表示。掲載元・著作権者からの再掲載許諾は未確認。",
+    "photoSourceReviewedAt": "2026-10-10"
   },
   {
     "id": "sauna-2-02",
@@ -265,7 +289,7 @@
     "tier": "2",
     "note": "",
     "area": "",
-    "photo": "",
+    "photo": "https://assets.st-note.com/img/1754208936-HtkUuRFwS83QIE0XNyDLcidq.jpg",
     "ordinal": 2,
     "officialUrl": "https://kinnokame.com/",
     "siteStatus": "verified",
@@ -273,7 +297,13 @@
     "siteNote": "",
     "originalName": "金の亀",
     "nameSource": "https://kinnokame.com/",
-    "nameReview": "official-site"
+    "nameReview": "official-site",
+    "photoSource": "https://note.com/ore_ikitai/n/n2511db121f41",
+    "photoCredit": "note — 生姜サウナ金の亀体験記事",
+    "photoSubject": "赤坂・金の亀の生姜サウナ室",
+    "photoType": "publisher-photo",
+    "photoUsageStatus": "施設実写真の掲載元を特定。外部画像URLにリンクし表示。掲載元・著作権者からの再掲載許諾は未確認。",
+    "photoSourceReviewedAt": "2026-10-10"
   },
   {
     "id": "sauna-2-04",
@@ -304,7 +334,7 @@
     "tier": "2",
     "note": "",
     "area": "",
-    "photo": "",
+    "photo": "https://yunoizumi.com/wp2023/wp-content/themes/yunoizumi/images/souka/sauna/img_26.jpg",
     "ordinal": 4,
     "officialUrl": "https://yunoizumi.com/souka/",
     "siteStatus": "verified",
@@ -312,7 +342,13 @@
     "siteNote": "",
     "originalName": "草加健康センター",
     "nameSource": "https://yunoizumi.com/souka/",
-    "nameReview": "official-site"
+    "nameReview": "official-site",
+    "photoSource": "https://yunoizumi.com/souka/sauna/",
+    "photoCredit": "湯乃泉 草加健康センター公式サイト",
+    "photoSubject": "草加健康センターの高温サウナ室",
+    "photoType": "official-site-photo",
+    "photoUsageStatus": "施設実写真の掲載元を特定。外部画像URLにリンクし表示。掲載元・著作権者からの再掲載許諾は未確認。",
+    "photoSourceReviewedAt": "2026-10-10"
   },
   {
     "id": "sauna-2-06",
@@ -320,7 +356,7 @@
     "tier": "2",
     "note": "ちりとり鍋",
     "area": "",
-    "photo": "",
+    "photo": "https://imgcp.aacdn.jp/img-a/auto/auto/aa_news/article/2026/01/16/6969f72e42e9e.jpg",
     "ordinal": 5,
     "officialUrl": "https://naniwa-utopia.com/",
     "siteStatus": "verified",
@@ -328,7 +364,13 @@
     "siteNote": "",
     "originalName": "なにわ健康センター湯〜トピア",
     "nameSource": "https://naniwa-utopia.com/",
-    "nameReview": "official-site"
+    "nameReview": "official-site",
+    "photoSource": "https://news.allabout.co.jp/articles/o/108945/",
+    "photoCredit": "All About ニュース — なにわ健康ランド施設紹介",
+    "photoSubject": "湯〜トピアのサウナ室",
+    "photoType": "publisher-photo",
+    "photoUsageStatus": "施設実写真の掲載元を特定。外部画像URLにリンクし表示。掲載元・著作権者からの再掲載許諾は未確認。",
+    "photoSourceReviewedAt": "2026-10-10"
   },
   {
     "id": "sauna-2-07",
@@ -336,7 +378,7 @@
     "tier": "2",
     "note": "",
     "area": "",
-    "photo": "",
+    "photo": "https://api.samurai-sauna-magazine.com/storage/v1/object/public/facilities/facility-1759105372317/sauna_1.webp",
     "ordinal": 6,
     "officialUrl": "https://www.kobe-sauna.co.jp/",
     "siteStatus": "verified",
@@ -344,7 +386,13 @@
     "siteNote": "",
     "originalName": "神戸サウナ&スパ",
     "nameSource": "https://www.kobe-sauna.co.jp/",
-    "nameReview": "official-site"
+    "nameReview": "official-site",
+    "photoSource": "https://samurai-sauna-magazine.com/en/facilities/facility-1759105372317",
+    "photoCredit": "SAMURAI SAUNA MAGAZINE — 神戸サウナ＆スパ紹介",
+    "photoSubject": "ケロ材を使ったフィンランドサウナ室",
+    "photoType": "publisher-photo",
+    "photoUsageStatus": "施設実写真の掲載元を特定。外部画像URLにリンクし表示。掲載元・著作権者からの再掲載許諾は未確認。",
+    "photoSourceReviewedAt": "2026-10-10"
   },
   {
     "id": "sauna-2-08",
@@ -397,7 +445,7 @@
     "tier": "2",
     "note": "",
     "area": "",
-    "photo": "",
+    "photo": "https://san-tatsu.jp/assets/uploads/2021/12/14150710/93e010b2cb50d0ee2d498b7a121c20b4.jpg",
     "ordinal": 9,
     "officialUrl": "https://www.timesspa-resta.jp/",
     "siteStatus": "verified",
@@ -405,7 +453,13 @@
     "siteNote": "",
     "originalName": "タイムズスパレスタ",
     "nameSource": "https://www.timesspa-resta.jp/",
-    "nameReview": "official-site"
+    "nameReview": "official-site",
+    "photoSource": "https://san-tatsu.jp/articles/144897/",
+    "photoCredit": "さんたつ — タイムズ スパ・レスタ取材",
+    "photoSubject": "レスタのフィンランドサウナ室",
+    "photoType": "publisher-photo",
+    "photoUsageStatus": "施設実写真の掲載元を特定。外部画像URLにリンクし表示。掲載元・著作権者からの再掲載許諾は未確認。",
+    "photoSourceReviewedAt": "2026-10-10"
   },
   {
     "id": "sauna-2-11",
@@ -413,7 +467,7 @@
     "tier": "2",
     "note": "",
     "area": "",
-    "photo": "",
+    "photo": "https://www.co-gaina.com/files/%E3%83%94%E3%83%B3%E3%82%AF800.jpg",
     "ordinal": 10,
     "officialUrl": "https://goldentime-takamatsu.com/",
     "siteStatus": "verified",
@@ -421,7 +475,13 @@
     "siteNote": "",
     "originalName": "ゴールデンタイム高松",
     "nameSource": "https://goldentime-takamatsu.com/",
-    "nameReview": "official-site"
+    "nameReview": "official-site",
+    "photoSource": "https://www.co-gaina.com/store/article/%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%87%E3%83%B3%E3%82%BF%E3%82%A4%E3%83%A0%E9%AB%98%E6%9D%BE_%E3%82%BB%E3%83%AB%E3%83%95%E3%83%AD%E3%82%A6%E3%83%AA%E3%83%A5%E3%82%A6%E3%82%B5%E3%82%A6%E3%83%8A",
+    "photoCredit": "株式会社ガイナ — ゴールデンタイム高松施工事例",
+    "photoSubject": "セルフロウリュサウナ",
+    "photoType": "publisher-photo",
+    "photoUsageStatus": "施設実写真の掲載元を特定。外部画像URLにリンクし表示。掲載元・著作権者からの再掲載許諾は未確認。",
+    "photoSourceReviewedAt": "2026-10-10"
   },
   {
     "id": "sauna-2-5-01",
@@ -429,7 +489,7 @@
     "tier": "2.5",
     "note": "動物サウナ",
     "area": "",
-    "photo": "",
+    "photo": "https://sauna.travel/cdn/shop/articles/IMG_5249_11.08.44.jpg?v=1631844843&width=1920",
     "ordinal": 0,
     "officialUrl": "https://hoshinoresorts.com/ja/hotels/omo7asahikawa/sp/plateau/",
     "siteStatus": "verified",
@@ -437,7 +497,13 @@
     "siteNote": "OMO7旭川 サウナプラトー。2026-10-10 利用者が施設特定を確認。公式施設案内: https://hoshinoresorts.com/ja/hotels/omo7asahikawa/sp/plateau/",
     "originalName": "OMO7",
     "nameSource": "https://hoshinoresorts.com/ja/hotels/omo7asahikawa/sp/plateau/",
-    "nameReview": "official-site"
+    "nameReview": "official-site",
+    "photoSource": "https://sauna.travel/blogs/sauna-travel/20210917",
+    "photoCredit": "SAUNA TRAVEL — OMO7旭川施設紹介",
+    "photoSubject": "OMO7旭川サウナプラトーのサウナ室",
+    "photoType": "publisher-photo",
+    "photoUsageStatus": "施設実写真の掲載元を特定。外部画像URLにリンクし表示。掲載元・著作権者からの再掲載許諾は未確認。",
+    "photoSourceReviewedAt": "2026-10-10"
   },
   {
     "id": "sauna-2-5-02",
@@ -445,7 +511,7 @@
     "tier": "2.5",
     "note": "セルフロウリュ",
     "area": "",
-    "photo": "",
+    "photo": "https://static.wixstatic.com/media/a656b9_44346e17c2094b47ae2f5265a568dd65~mv2.jpg/v1/fit/w_2500%2Ch_1330%2Cal_c/a656b9_44346e17c2094b47ae2f5265a568dd65~mv2.jpg",
     "ordinal": 1,
     "officialUrl": "https://www.jonnobi.com/",
     "siteStatus": "verified",
@@ -453,7 +519,13 @@
     "siteNote": "",
     "originalName": "じょんのび",
     "nameSource": "https://www.jonnobi.com/",
-    "nameReview": "official-site"
+    "nameReview": "official-site",
+    "photoSource": "https://www.jonnobi.com/%E3%82%B5%E3%82%A6%E3%83%8A?lightbox=dataItem-lsebjlxt1",
+    "photoCredit": "じょんのび館公式サイト",
+    "photoSubject": "じょんのび館のセルフロウリュサウナ",
+    "photoType": "official-site-photo",
+    "photoUsageStatus": "施設実写真の掲載元を特定。外部画像URLにリンクし表示。掲載元・著作権者からの再掲載許諾は未確認。",
+    "photoSourceReviewedAt": "2026-10-10"
   },
   {
     "id": "sauna-2-5-03",
@@ -477,7 +549,7 @@
     "tier": "2.5",
     "note": "",
     "area": "",
-    "photo": "",
+    "photo": "https://www.info-toyama.com/storage/blog_articles/122/responsive_images/hYW6oBEncMYbQJre23PTHP30K6zW0vNHQghbb9uE__1064_709.jpeg",
     "ordinal": 3,
     "officialUrl": "https://www.sauna-alps.com/",
     "siteStatus": "verified",
@@ -485,7 +557,13 @@
     "siteNote": "",
     "originalName": "スパ•アルプス",
     "nameSource": "https://www.sauna-alps.com/",
-    "nameReview": "official-site"
+    "nameReview": "official-site",
+    "photoSource": "https://www.info-toyama.com/articles/soga-sauna",
+    "photoCredit": "とやま観光ナビ（富山県観光公式）",
+    "photoSubject": "スパ・アルプスのサウナ室",
+    "photoType": "publisher-photo",
+    "photoUsageStatus": "施設実写真の掲載元を特定。外部画像URLにリンクし表示。掲載元・著作権者からの再掲載許諾は未確認。",
+    "photoSourceReviewedAt": "2026-10-10"
   },
   {
     "id": "sauna-2-5-05",
@@ -597,7 +675,7 @@
     "tier": "3",
     "note": "",
     "area": "",
-    "photo": "",
+    "photo": "https://prcdn.freetls.fastly.net/release_image/98102/5/98102-5-6b5100b0424a0c0a70c9de7c40d4e7a0-1024x683.jpg?auto=webp&fit=bounds&format=jpeg&height=1350&quality=85%2C75&width=1950",
     "ordinal": 1,
     "officialUrl": "https://thermae-yu.jp/",
     "siteStatus": "verified",
@@ -605,7 +683,13 @@
     "siteNote": "",
     "originalName": "テルマー湯",
     "nameSource": "https://thermae-yu.jp/",
-    "nameReview": "official-site"
+    "nameReview": "official-site",
+    "photoSource": "https://prtimes.jp/main/html/rd/p/000000005.000098102.html",
+    "photoCredit": "PR TIMES — テルマー湯サウナに関するプレスリリース",
+    "photoSubject": "テルマー湯のサウナ室",
+    "photoType": "publisher-photo",
+    "photoUsageStatus": "施設実写真の掲載元を特定。外部画像URLにリンクし表示。掲載元・著作権者からの再掲載許諾は未確認。",
+    "photoSourceReviewedAt": "2026-10-10"
   },
   {
     "id": "sauna-3-03",
@@ -679,7 +763,7 @@
     "tier": "3",
     "note": "",
     "area": "",
-    "photo": "",
+    "photo": "https://static.wixstatic.com/media/f969fb_01339881dc9f45f88fe6bd541bedc92a~mv2.jpg/v1/fill/w_980%2Ch_651%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01/f969fb_01339881dc9f45f88fe6bd541bedc92a~mv2.jpg",
     "ordinal": 5,
     "officialUrl": "https://www.nikoh.info/",
     "siteStatus": "verified",
@@ -687,7 +771,13 @@
     "siteNote": "",
     "originalName": "ニコーリフレ",
     "nameSource": "https://www.nikoh.info/spa-sauna/",
-    "nameReview": "official-site"
+    "nameReview": "official-site",
+    "photoSource": "https://www.nikoh.info/",
+    "photoCredit": "ニコーリフレ公式サイト",
+    "photoSubject": "ロウリュサウナ室",
+    "photoType": "official-site-photo",
+    "photoUsageStatus": "施設実写真の掲載元を特定。外部画像URLにリンクし表示。掲載元・著作権者からの再掲載許諾は未確認。",
+    "photoSourceReviewedAt": "2026-10-10"
   },
   {
     "id": "sauna-3-07",
@@ -695,7 +785,7 @@
     "tier": "3",
     "note": "",
     "area": "",
-    "photo": "",
+    "photo": "https://www.fashion-press.net/img/news/97385/1Vg.jpg",
     "ordinal": 6,
     "officialUrl": "https://saunas-saunas.com/shibuya/",
     "siteStatus": "verified",
@@ -703,7 +793,13 @@
     "siteNote": "",
     "originalName": "saunas",
     "nameSource": "https://saunas-saunas.com/shibuya/",
-    "nameReview": "official-site"
+    "nameReview": "official-site",
+    "photoSource": "https://www.fashion-press.net/news/97385",
+    "photoCredit": "Fashion Press — 渋谷SAUNAS紹介",
+    "photoSubject": "渋谷SAUNASの木製サウナ室",
+    "photoType": "publisher-photo",
+    "photoUsageStatus": "施設実写真の掲載元を特定。外部画像URLにリンクし表示。掲載元・著作権者からの再掲載許諾は未確認。",
+    "photoSourceReviewedAt": "2026-10-10"
   },
   {
     "id": "sauna-3-08",
@@ -733,7 +829,7 @@
     "tier": "3",
     "note": "",
     "area": "",
-    "photo": "",
+    "photo": "https://img.sauna-ikitai.com/sauna/3768_20241108_194928_2H5bjWdQGI_large.png",
     "ordinal": 8,
     "officialUrl": "https://www.wellbe.co.jp/fukuoka/",
     "siteStatus": "verified",
@@ -741,7 +837,13 @@
     "siteNote": "",
     "originalName": "ウェルビー福岡",
     "nameSource": "https://www.wellbe.co.jp/fukuoka/",
-    "nameReview": "official-site"
+    "nameReview": "official-site",
+    "photoSource": "https://sauna-ikitai.com/saunas/3768",
+    "photoCredit": "サウナイキタイ — ウェルビー福岡施設写真",
+    "photoSubject": "ウェルビー福岡のメインサウナ室",
+    "photoType": "publisher-photo",
+    "photoUsageStatus": "施設実写真の掲載元を特定。外部画像URLにリンクし表示。掲載元・著作権者からの再掲載許諾は未確認。",
+    "photoSourceReviewedAt": "2026-10-10"
   },
   {
     "id": "sauna-3-10",
@@ -810,7 +912,7 @@
     "tier": "3",
     "note": "夜景",
     "area": "",
-    "photo": "",
+    "photo": "https://img.spaworks.jp/facility/114/114_202210302355_Cg5YF_m.jpg",
     "ordinal": 12,
     "officialUrl": "https://www.skyspa.co.jp/",
     "siteStatus": "verified",
@@ -818,7 +920,13 @@
     "siteNote": "",
     "originalName": "スカイスパYokohama",
     "nameSource": "https://www.skyspa.co.jp/",
-    "nameReview": "official-site"
+    "nameReview": "official-site",
+    "photoSource": "https://spaworks.jp/facility/114",
+    "photoCredit": "スパワークス — スカイスパYOKOHAMA",
+    "photoSubject": "スカイスパYOKOHAMAのフィンランドサウナ室",
+    "photoType": "publisher-photo",
+    "photoUsageStatus": "施設実写真の掲載元を特定。外部画像URLにリンクし表示。掲載元・著作権者からの再掲載許諾は未確認。",
+    "photoSourceReviewedAt": "2026-10-10"
   },
   {
     "id": "sauna-3-14",
@@ -865,7 +973,7 @@
     "tier": "3",
     "note": "",
     "area": "",
-    "photo": "",
+    "photo": "https://www.supersento.com/hokuriku/toyama/img/sauna-talo-toyama5.jpg",
     "ordinal": 15,
     "officialUrl": "https://sauna-talo.jp/",
     "siteStatus": "verified",
@@ -873,7 +981,13 @@
     "siteNote": "",
     "originalName": "サウナタロトヤマ",
     "nameSource": "https://sauna-talo.jp/",
-    "nameReview": "official-site"
+    "nameReview": "official-site",
+    "photoSource": "https://www.supersento.com/hokuriku/toyama/sauna-talo-toyama.html",
+    "photoCredit": "スーパー銭湯全国検索 — Sauna Talo Toyama",
+    "photoSubject": "Sauna Talo Toyamaの木製サウナ室",
+    "photoType": "publisher-photo",
+    "photoUsageStatus": "施設実写真の掲載元を特定。外部画像URLにリンクし表示。掲載元・著作権者からの再掲載許諾は未確認。",
+    "photoSourceReviewedAt": "2026-10-10"
   },
   {
     "id": "sauna-3-17",
@@ -919,7 +1033,7 @@
     "tier": "3",
     "note": "1人限定かな、でも椅子が最強",
     "area": "",
-    "photo": "",
+    "photo": "https://assets.st-note.com/img/1638069451158-0D6RRmvpZo.png?fit=bounds&height=2000&quality=85&width=2000",
     "ordinal": 18,
     "officialUrl": "https://rooftopsauna.jp/",
     "siteStatus": "verified",
@@ -927,7 +1041,13 @@
     "siteNote": "",
     "originalName": "Rooftop",
     "nameSource": "https://rooftopsauna.jp/",
-    "nameReview": "official-site"
+    "nameReview": "official-site",
+    "photoSource": "https://note.com/yonasauna/n/n5610eb4caad1",
+    "photoCredit": "note — ROOFTOP開業レポート",
+    "photoSubject": "西荻窪ROOFTOPのサウナ室",
+    "photoType": "publisher-photo",
+    "photoUsageStatus": "施設実写真の掲載元を特定。外部画像URLにリンクし表示。掲載元・著作権者からの再掲載許諾は未確認。",
+    "photoSourceReviewedAt": "2026-10-10"
   },
   {
     "id": "sauna-3-20",
@@ -935,7 +1055,7 @@
     "tier": "3",
     "note": "",
     "area": "",
-    "photo": "",
+    "photo": "https://assets.st-note.com/production/uploads/images/196520355/rectangle_large_type_2_843e4125793f4841980748bc2ddd84b3.jpeg?width=1280",
     "ordinal": 19,
     "officialUrl": "https://teppen-saunadojo.com/",
     "siteStatus": "verified",
@@ -943,7 +1063,13 @@
     "siteNote": "",
     "originalName": "サウナ道場",
     "nameSource": "https://teppen-saunadojo.com/about",
-    "nameReview": "official-site"
+    "nameReview": "official-site",
+    "photoSource": "https://note.com/spectol/n/n50be781d8f64",
+    "photoCredit": "note — 渋谷サウナ道場訪問記事",
+    "photoSubject": "てっぺんサウナ道場の水風呂エリア",
+    "photoType": "publisher-photo",
+    "photoUsageStatus": "施設実写真の掲載元を特定。外部画像URLにリンクし表示。掲載元・著作権者からの再掲載許諾は未確認。",
+    "photoSourceReviewedAt": "2026-10-10"
   },
   {
     "id": "sauna-3-21",
@@ -951,7 +1077,7 @@
     "tier": "3",
     "note": "",
     "area": "",
-    "photo": "",
+    "photo": "https://img.spaworks.jp/facility/192/192_202210161322_x7dps_l.jpg",
     "ordinal": 20,
     "officialUrl": "https://saunarium-lava.com/",
     "siteStatus": "verified",
@@ -959,7 +1085,13 @@
     "siteNote": "",
     "originalName": "サウナリウム高円寺",
     "nameSource": "https://saunarium-lava.com/",
-    "nameReview": "official-site"
+    "nameReview": "official-site",
+    "photoSource": "https://spaworks.jp/facility/192",
+    "photoCredit": "スパワークス — サウナリウム高円寺",
+    "photoSubject": "サウナリウム高円寺のサウナ室",
+    "photoType": "publisher-photo",
+    "photoUsageStatus": "施設実写真の掲載元を特定。外部画像URLにリンクし表示。掲載元・著作権者からの再掲載許諾は未確認。",
+    "photoSourceReviewedAt": "2026-10-10"
   },
   {
     "id": "sauna-3-22",
@@ -967,7 +1099,7 @@
     "tier": "3",
     "note": "",
     "area": "",
-    "photo": "",
+    "photo": "https://rstatic.enjoytokyo.jp/assets/images/article/69/216880/main.jpg?1703575191=&p=t&w=2600",
     "ordinal": 21,
     "officialUrl": "https://monster-ws.jp/",
     "siteStatus": "verified",
@@ -975,7 +1107,13 @@
     "siteNote": "",
     "originalName": "MONSTER WORK & SAUNA",
     "nameSource": "https://monster-ws.jp/",
-    "nameReview": "official-site"
+    "nameReview": "official-site",
+    "photoSource": "https://www.enjoytokyo.jp/news/201592/",
+    "photoCredit": "レッツエンジョイ東京 — MONSTER WORK & SAUNA",
+    "photoSubject": "MONSTER WORK & SAUNAの大型サウナ室",
+    "photoType": "publisher-photo",
+    "photoUsageStatus": "施設実写真の掲載元を特定。外部画像URLにリンクし表示。掲載元・著作権者からの再掲載許諾は未確認。",
+    "photoSourceReviewedAt": "2026-10-10"
   },
   {
     "id": "sauna-3-23",
@@ -1015,7 +1153,7 @@
     "tier": "3",
     "note": "",
     "area": "",
-    "photo": "",
+    "photo": "https://sodane.hokkaido.jp/photo/20250209/GhgH6ZMbwAA-efB.jpg",
     "ordinal": 24,
     "officialUrl": "https://nus-saunahouse.com/",
     "siteStatus": "verified",
@@ -1023,7 +1161,13 @@
     "siteNote": "",
     "originalName": "saunahouse",
     "nameSource": "https://nus-saunahouse.com/",
-    "nameReview": "official-site"
+    "nameReview": "official-site",
+    "photoSource": "https://sodane.hokkaido.jp/column/202502150500005077.html",
+    "photoCredit": "SODANE — SAUNA HOUSE紹介",
+    "photoSubject": "川崎SAUNA HOUSEの多段サウナ室",
+    "photoType": "publisher-photo",
+    "photoUsageStatus": "施設実写真の掲載元を特定。外部画像URLにリンクし表示。掲載元・著作権者からの再掲載許諾は未確認。",
+    "photoSourceReviewedAt": "2026-10-10"
   },
   {
     "id": "sauna-3-26",
@@ -1086,7 +1230,7 @@
     "tier": "3",
     "note": "",
     "area": "",
-    "photo": "",
+    "photo": "https://newscast.jp/attachments/SHmgS7BimTQjgzF4iukF.jpg?a=1&h=940&w=940",
     "ordinal": 28,
     "officialUrl": "https://ryusenjinoyu.com/saunametsaoimachi/",
     "siteStatus": "verified",
@@ -1094,7 +1238,13 @@
     "siteNote": "",
     "originalName": "サウナメッツァ大井町トラックス",
     "nameSource": "https://ryusenjinoyu.com/saunametsaoimachi/",
-    "nameReview": "official-site"
+    "nameReview": "official-site",
+    "photoSource": "https://newscast.jp/news/7488009",
+    "photoCredit": "NEWSCAST — サウナメッツァ大井町トラックス紹介",
+    "photoSubject": "サウナメッツァ大井町のトラムサウナ",
+    "photoType": "publisher-photo",
+    "photoUsageStatus": "施設実写真の掲載元を特定。外部画像URLにリンクし表示。掲載元・著作権者からの再掲載許諾は未確認。",
+    "photoSourceReviewedAt": "2026-10-10"
   },
   {
     "id": "sauna-3-30",
@@ -1118,7 +1268,7 @@
     "tier": "4",
     "note": "",
     "area": "",
-    "photo": "",
+    "photo": "https://news.mynavi.jp/article/20220419-2324547/images/003.jpg",
     "ordinal": 0,
     "officialUrl": "https://www.ryusenjinoyu.com/spametsaotaka/",
     "siteStatus": "verified",
@@ -1126,7 +1276,13 @@
     "siteNote": "",
     "originalName": "スプメッツアおおたか",
     "nameSource": "https://www.ryusenjinoyu.com/spametsaotaka/",
-    "nameReview": "official-site"
+    "nameReview": "official-site",
+    "photoSource": "https://news.mynavi.jp/article/20220419-2324547/",
+    "photoCredit": "マイナビニュース — スパメッツァおおたか取材",
+    "photoSubject": "スパメッツァおおたかのドラゴンサウナ",
+    "photoType": "publisher-photo",
+    "photoUsageStatus": "施設実写真の掲載元を特定。外部画像URLにリンクし表示。掲載元・著作権者からの再掲載許諾は未確認。",
+    "photoSourceReviewedAt": "2026-10-10"
   },
   {
     "id": "sauna-4-02",
@@ -1134,7 +1290,7 @@
     "tier": "4",
     "note": "",
     "area": "",
-    "photo": "",
+    "photo": "https://prcdn.freetls.fastly.net/release_image/77656/291/77656-291-929ef6b97ea4b0ecf4cc3a1865a075c7-1600x1068.jpg?auto=webp&bg-color=fff&fit=bounds&format=jpeg&height=1350&quality=85%2C65&width=1950",
     "ordinal": 1,
     "officialUrl": "https://www.laqua.jp/spa/",
     "siteStatus": "verified",
@@ -1142,7 +1298,13 @@
     "siteNote": "",
     "originalName": "ラクーア",
     "nameSource": "https://www.laqua.jp/spa/",
-    "nameReview": "official-site"
+    "nameReview": "official-site",
+    "photoSource": "https://prtimes.jp/main/html/rd/p/000000291.000077656.html",
+    "photoCredit": "株式会社東京ドーム プレスリリース（PR TIMES）",
+    "photoSubject": "Spa LaQuaのフィンランドサウナ室",
+    "photoType": "publisher-photo",
+    "photoUsageStatus": "施設実写真の掲載元を特定。外部画像URLにリンクし表示。掲載元・著作権者からの再掲載許諾は未確認。",
+    "photoSourceReviewedAt": "2026-10-10"
   },
   {
     "id": "sauna-4-03",
