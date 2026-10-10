@@ -1,0 +1,29 @@
+name: Check sauna photo links
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'data/saunas.json'
+      - 'tools/check-images.mjs'
+      - '.github/workflows/photo-audit.yml'
+permissions:
+  contents: read
+jobs:
+  check-photos:
+    name: Check external photo link responses
+    runs-on: ubuntu-latest
+    timeout-minutes: 7
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Check all photo links without downloading full images
+        run: node tools/check-images.mjs
+      - name: Upload photo audit JSON
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: sauna-photo-audit
+          path: photo-audit-results.json
+          if-no-files-found: warn
