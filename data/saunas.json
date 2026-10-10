@@ -5,7 +5,7 @@
     "tier": "hall",
     "note": "",
     "area": "",
-    "photo": "",
+    "photo": "https://www.mifuneyama.co.jp/rakan/men/03.jpg",
     "ordinal": 0,
     "officialUrl": "https://www.mifuneyama.co.jp/dayuse.html",
     "siteStatus": "verified",
@@ -13,7 +13,12 @@
     "siteNote": "",
     "originalName": "らかんの湯",
     "nameSource": "https://www.mifuneyama.co.jp/",
-    "nameReview": "official-site"
+    "nameReview": "official-site",
+    "photoSource": "https://www.mifuneyama.co.jp/en/rakan.html",
+    "photoCredit": "御船山楽園ホテル 公式サイト",
+    "photoSubject": "らかんの湯・薪サウナ",
+    "photoType": "official-external-image",
+    "photoUsageStatus": "公式画像URLへの直接参照。転載許諾の有無は未確認。"
   },
   {
     "id": "sauna-hall-02",
@@ -21,7 +26,7 @@
     "tier": "hall",
     "note": "",
     "area": "",
-    "photo": "",
+    "photo": "https://lampinc.co.jp/nojiriko/wp-content/themes/lamp-nojiriko/assets/image/sauna/viisi.webp",
     "ordinal": 1,
     "officialUrl": "https://lampinc.co.jp/nojiriko/sauna/",
     "siteStatus": "verified",
@@ -29,7 +34,12 @@
     "siteNote": "",
     "originalName": "The sauna",
     "nameSource": "https://lampinc.co.jp/nojiriko/sauna/",
-    "nameReview": "official-site"
+    "nameReview": "official-site",
+    "photoSource": "https://lampinc.co.jp/nojiriko/sauna/",
+    "photoCredit": "LAMP野尻湖 公式サイト",
+    "photoSubject": "The Sauna・ヴィーシ",
+    "photoType": "official-external-image",
+    "photoUsageStatus": "公式画像URLへの直接参照。転載許諾の有無は未確認。"
   },
   {
     "id": "sauna-hall-03",
@@ -53,12 +63,17 @@
     "tier": "hall",
     "note": "",
     "area": "",
-    "photo": "",
+    "photo": "https://www.mtfuji-hotel.com/new/season/jsna5k0000000bs5-img/sauna_L2_night.jpg",
     "ordinal": 3,
     "officialUrl": "https://www.mtfuji-hotel.com/spa/sauna.html",
     "siteStatus": "verified",
     "closed": false,
-    "siteNote": ""
+    "siteNote": "",
+    "photoSource": "https://www.mtfuji-hotel.com/new/season/jsna5k0000000bs5.html",
+    "photoCredit": "ホテルマウント富士 公式サイト",
+    "photoSubject": "富嶽蒸景からの富士山",
+    "photoType": "official-external-image",
+    "photoUsageStatus": "公式画像URLへの直接参照。転載許諾の有無は未確認。"
   },
   {
     "id": "sauna-hall-05",
@@ -82,7 +97,7 @@
     "tier": "1",
     "note": "",
     "area": "",
-    "photo": "",
+    "photo": "https://cdn.r-corona.jp/prd.jln.r-corona.jp/assets/site_files/xdwcuyfd/672084/mrfp_bw1200h600.jpg",
     "ordinal": 0,
     "officialUrl": "https://hpdsp.jp/rainbow-sinkoiwa/",
     "siteStatus": "verified",
@@ -90,7 +105,12 @@
     "siteNote": "",
     "originalName": "レインボー新小岩",
     "nameSource": "https://hpdsp.jp/rainbow-sinkoiwa/",
-    "nameReview": "official-site"
+    "nameReview": "official-site",
+    "photoSource": "https://hpdsp.jp/rainbow-sinkoiwa/spa",
+    "photoCredit": "レインボー新小岩店 公式サイト",
+    "photoSubject": "レインボー新小岩・サウナ室",
+    "photoType": "official-external-image",
+    "photoUsageStatus": "公式画像URLへの直接参照。転載許諾の有無は未確認。"
   },
   {
     "id": "sauna-1-02",
