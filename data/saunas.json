@@ -533,7 +533,7 @@
     "tier": "2.5",
     "note": "",
     "area": "",
-    "photo": "",
+    "photo": "https://assets.st-note.com/production/uploads/images/15681748/rectangle_large_type_2_10333d8d344d6ca40e01db595b0d46cc.jpeg?width=1280",
     "ordinal": 2,
     "officialUrl": "https://www.saunashikiji.jp/",
     "siteStatus": "verified",
@@ -541,7 +541,13 @@
     "siteNote": "",
     "originalName": "しきじ",
     "nameSource": "https://www.saunashikiji.jp/",
-    "nameReview": "official-site"
+    "nameReview": "official-site",
+    "photoSource": "https://note.com/show_iz/n/n2bd10dddf075",
+    "photoCredit": "note — サウナしきじ訪問記事",
+    "photoSubject": "静岡サウナしきじの外観看板",
+    "photoType": "external-publication-photo",
+    "photoUsageStatus": "施設の実写真の掲載元URLを直接参照。再掲載・外部埋め込みの許諾は未確認。",
+    "photoSourceReviewedAt": "2026-10-10"
   },
   {
     "id": "sauna-2-5-04",
@@ -593,7 +599,7 @@
     "tier": "2.5",
     "note": "",
     "area": "",
-    "photo": "",
+    "photo": "https://www.supersento.com/chubu/aichi/img/tatsukisauna3.jpg",
     "ordinal": 5,
     "officialUrl": "https://tatsukisauna.com/",
     "siteStatus": "verified",
@@ -601,7 +607,13 @@
     "siteNote": "",
     "originalName": "龍城さうな",
     "nameSource": "https://tatsukisauna.com/",
-    "nameReview": "official-site"
+    "nameReview": "official-site",
+    "photoSource": "https://www.supersento.com/chubu/aichi/tatsukisauna.html",
+    "photoCredit": "スーパー銭湯全国検索 — 龍城さうな",
+    "photoSubject": "龍城さうなのサウナ室",
+    "photoType": "external-publication-photo",
+    "photoUsageStatus": "施設の実写真の掲載元URLを直接参照。再掲載・外部埋め込みの許諾は未確認。",
+    "photoSourceReviewedAt": "2026-10-10"
   },
   {
     "id": "sauna-2-5-07",
@@ -851,7 +863,7 @@
     "tier": "3",
     "note": "",
     "area": "",
-    "photo": "",
+    "photo": "https://cdn.r-corona.jp/prd.jln.r-corona.jp/assets/site_files/dusx0yvp/838023/ol4w_jw760h570.jpg",
     "ordinal": 9,
     "officialUrl": "https://hpdsp.jp/rainbow-motoyawata/",
     "siteStatus": "verified",
@@ -859,7 +871,13 @@
     "siteNote": "",
     "originalName": "レインボー本八幡",
     "nameSource": "https://hpdsp.jp/rainbow-motoyawata/",
-    "nameReview": "official-site"
+    "nameReview": "official-site",
+    "photoSource": "https://hpdsp.jp/rainbow-motoyawata/page2",
+    "photoCredit": "レインボー本八幡店 公式HP",
+    "photoSubject": "レインボー本八幡店のサウナ室",
+    "photoType": "official-site-photo",
+    "photoUsageStatus": "施設の実写真の掲載元URLを直接参照。再掲載・外部埋め込みの許諾は未確認。",
+    "photoSourceReviewedAt": "2026-10-10"
   },
   {
     "id": "sauna-3-11",
@@ -957,7 +975,7 @@
     "tier": "3",
     "note": "",
     "area": "",
-    "photo": "",
+    "photo": "https://assets.st-note.com/production/uploads/images/128359384/rectangle_large_type_2_0d78f33a701e21f4087dbfe1c88cfafd.jpeg?width=1280",
     "ordinal": 14,
     "officialUrl": "https://cocofuro.com/kagayokujo/",
     "siteStatus": "verified",
@@ -965,7 +983,13 @@
     "siteNote": "",
     "originalName": "cocofuroかが浴場",
     "nameSource": "https://cocofuro.com/kagayokujo/",
-    "nameReview": "official-site"
+    "nameReview": "official-site",
+    "photoSource": "https://note.com/aosaku_sauna/n/n75f9757a430b",
+    "photoCredit": "note — COCOFUROかが浴場の訪問記事",
+    "photoSubject": "かが浴場の多段サウナ",
+    "photoType": "external-publication-photo",
+    "photoUsageStatus": "施設の実写真の掲載元URLを直接参照。再掲載・外部埋め込みの許諾は未確認。",
+    "photoSourceReviewedAt": "2026-10-10"
   },
   {
     "id": "sauna-3-16",
@@ -995,7 +1019,7 @@
     "tier": "3",
     "note": "",
     "area": "",
-    "photo": "",
+    "photo": "https://www.info-toyama.com/storage/blog_article_paragraphs/8648/responsive_images/fAkbsc99CUbH22h9rg1xSaXwEKcqR4SwszXuyTgy__1669_1113.jpeg",
     "ordinal": 16,
     "officialUrl": "https://furobakka.com/",
     "siteStatus": "verified",
@@ -1003,7 +1027,13 @@
     "siteNote": "",
     "originalName": "湯屋furobakka",
     "nameSource": "https://furobakka.com/",
-    "nameReview": "official-site"
+    "nameReview": "official-site",
+    "photoSource": "https://www.info-toyama.com/articles/kanako-yuyafurobakka",
+    "photoCredit": "とやま観光ナビ（富山県観光公式）",
+    "photoSubject": "FUROBAKKAのバレルサウナ",
+    "photoType": "external-publication-photo",
+    "photoUsageStatus": "施設の実写真の掲載元URLを直接参照。再掲載・外部埋め込みの許諾は未確認。",
+    "photoSourceReviewedAt": "2026-10-10"
   },
   {
     "id": "sauna-3-18",
@@ -1121,7 +1151,7 @@
     "tier": "3",
     "note": "",
     "area": "",
-    "photo": "",
+    "photo": "https://assets.st-note.com/production/uploads/images/147015023/rectangle_large_type_2_35345598892083981f3d4d491d1f4c24.jpeg?width=1280",
     "ordinal": 22,
     "officialUrl": "https://www.rosco.tokyo/",
     "siteStatus": "verified",
@@ -1129,7 +1159,13 @@
     "siteNote": "",
     "originalName": "ロスコ",
     "nameSource": "https://www.rosco.tokyo/",
-    "nameReview": "official-site"
+    "nameReview": "official-site",
+    "photoSource": "https://note.com/sauna_mokusiroku/n/n5d3099c5034c",
+    "photoCredit": "note — ロスコ訪問記事",
+    "photoSubject": "ロスコの入口看板",
+    "photoType": "external-publication-photo",
+    "photoUsageStatus": "施設の実写真の掲載元URLを直接参照。再掲載・外部埋め込みの許諾は未確認。",
+    "photoSourceReviewedAt": "2026-10-10"
   },
   {
     "id": "sauna-3-24",
@@ -1137,7 +1173,7 @@
     "tier": "3",
     "note": "",
     "area": "",
-    "photo": "",
+    "photo": "https://newscast.jp/attachments/T3hnnv1MLeMvBgAAizCL.jpg",
     "ordinal": 23,
     "officialUrl": "https://www.edoyu.com/ryougoku/",
     "siteStatus": "verified",
@@ -1145,7 +1181,13 @@
     "siteNote": "",
     "originalName": "江戸遊",
     "nameSource": "https://www.edoyu.com/ryougoku/",
-    "nameReview": "official-site"
+    "nameReview": "official-site",
+    "photoSource": "https://newscast.jp/news/8566555",
+    "photoCredit": "NEWSCAST — 両国湯屋江戸遊",
+    "photoSubject": "江戸遊のフィンランドサウナ",
+    "photoType": "external-publication-photo",
+    "photoUsageStatus": "施設の実写真の掲載元URLを直接参照。再掲載・外部埋め込みの許諾は未確認。",
+    "photoSourceReviewedAt": "2026-10-10"
   },
   {
     "id": "sauna-3-25",
@@ -1198,7 +1240,7 @@
     "tier": "3",
     "note": "",
     "area": "",
-    "photo": "",
+    "photo": "https://static.onsen.nifty.com/terme/250428942064/ed337e8f-cbe5-4d51-b587-959964022233.jpg",
     "ordinal": 26,
     "officialUrl": "https://galera-sauna.tokyo/",
     "siteStatus": "verified",
@@ -1206,7 +1248,13 @@
     "siteNote": "",
     "originalName": "ガレーラ・サウナ立川",
     "nameSource": "https://galera-sauna.tokyo/",
-    "nameReview": "official-site"
+    "nameReview": "official-site",
+    "photoSource": "https://onsen.nifty.com/onsen-matome/250428942064/",
+    "photoCredit": "ニフティ温泉 — GALERA SAUNA TACHIKAWA",
+    "photoSubject": "GALERA SAUNA TACHIKAWAのサウナ室",
+    "photoType": "external-publication-photo",
+    "photoUsageStatus": "施設の実写真の掲載元URLを直接参照。再掲載・外部埋め込みの許諾は未確認。",
+    "photoSourceReviewedAt": "2026-10-10"
   },
   {
     "id": "sauna-3-28",
@@ -1214,7 +1262,7 @@
     "tier": "3",
     "note": "",
     "area": "",
-    "photo": "",
+    "photo": "https://images.microcms-assets.io/assets/6e4c33ab994e413a8b9082545bbcda3e/0770cfc0c3f04ffba9ae4a5c1371aeb9/%E7%99%BD%E6%A8%BA%E3%81%AE%E9%96%93.jpg?fm=webp&q=80",
     "ordinal": 27,
     "officialUrl": "https://www.yomiuriland.com/hanabiyori/kakeinoyu/",
     "siteStatus": "verified",
@@ -1222,7 +1270,13 @@
     "siteNote": "",
     "originalName": "花景の湯(かけいのゆ)",
     "nameSource": "https://www.yomiuriland.com/hanabiyori/kakeinoyu/",
-    "nameReview": "official-site"
+    "nameReview": "official-site",
+    "photoSource": "https://chillplus.jp/spot/kakeinoyu",
+    "photoCredit": "Chill+ — 花景の湯",
+    "photoSubject": "花景の湯のサウナ室",
+    "photoType": "external-publication-photo",
+    "photoUsageStatus": "施設の実写真の掲載元URLを直接参照。再掲載・外部埋め込みの許諾は未確認。",
+    "photoSourceReviewedAt": "2026-10-10"
   },
   {
     "id": "sauna-3-29",
@@ -1252,7 +1306,7 @@
     "tier": "3",
     "note": "",
     "area": "",
-    "photo": "",
+    "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/c3/fe/66/caption.jpg?h=1400&s=1&w=1400",
     "ordinal": 29,
     "officialUrl": "https://yutonamisha.com/sento/umeyu/",
     "siteStatus": "verified",
@@ -1260,7 +1314,13 @@
     "siteNote": "",
     "originalName": "サウナの梅湯",
     "nameSource": "https://yutonamisha.com/sento/umeyu/",
-    "nameReview": "official-site"
+    "nameReview": "official-site",
+    "photoSource": "https://www.tripadvisor.com/Attraction_Review-g298564-d9996681-Reviews-Sauna_no_Umeyu-Kyoto_Kyoto_Prefecture_Kinki.html",
+    "photoCredit": "Tripadvisor — サウナの梅湯",
+    "photoSubject": "京都・サウナの梅湯の夜の外観",
+    "photoType": "external-publication-photo",
+    "photoUsageStatus": "施設の実写真の掲載元URLを直接参照。再掲載・外部埋め込みの許諾は未確認。",
+    "photoSourceReviewedAt": "2026-10-10"
   },
   {
     "id": "sauna-4-01",
@@ -1312,7 +1372,7 @@
     "tier": "4",
     "note": "",
     "area": "",
-    "photo": "",
+    "photo": "https://www.supersento.com/kanto/tokyo/img/machida6.jpg",
     "ordinal": 2,
     "officialUrl": "https://morinoirodori.com/",
     "siteStatus": "verified",
@@ -1320,7 +1380,13 @@
     "siteNote": "",
     "originalName": "多摩境天然温泉　森乃彩",
     "nameSource": "https://morinoirodori.com/",
-    "nameReview": "official-site"
+    "nameReview": "official-site",
+    "photoSource": "https://www.supersento.com/kanto/tokyo/machida.html",
+    "photoCredit": "スーパー銭湯全国検索 — 森乃彩",
+    "photoSubject": "多摩境天然温泉 森乃彩のサウナと浴場",
+    "photoType": "external-publication-photo",
+    "photoUsageStatus": "施設の実写真の掲載元URLを直接参照。再掲載・外部埋め込みの許諾は未確認。",
+    "photoSourceReviewedAt": "2026-10-10"
   },
   {
     "id": "sauna-4-04",
@@ -1350,7 +1416,7 @@
     "tier": "4",
     "note": "",
     "area": "",
-    "photo": "",
+    "photo": "https://rstatic.enjoytokyo.jp/assets/images/o_article/solo/sites/solo/files/upimages/893/017.jpg",
     "ordinal": 4,
     "officialUrl": "https://www.nagomino-yu.com/",
     "siteStatus": "verified",
@@ -1358,7 +1424,13 @@
     "siteNote": "",
     "originalName": "なごみの湯",
     "nameSource": "https://www.nagomino-yu.com/",
-    "nameReview": "official-site"
+    "nameReview": "official-site",
+    "photoSource": "https://www.enjoytokyo.jp/article/109405/",
+    "photoCredit": "レッツエンジョイ東京 — なごみの湯",
+    "photoSubject": "なごみの湯のドライサウナ",
+    "photoType": "external-publication-photo",
+    "photoUsageStatus": "施設の実写真の掲載元URLを直接参照。再掲載・外部埋め込みの許諾は未確認。",
+    "photoSourceReviewedAt": "2026-10-10"
   },
   {
     "id": "sauna-4-06",
@@ -1366,7 +1438,7 @@
     "tier": "4",
     "note": "サウナがたくさんある",
     "area": "",
-    "photo": "",
+    "photo": "https://www3.apahotel.com/image/57saunamen1.jpg",
     "ordinal": 5,
     "officialUrl": "https://www.apahotel.com/hotel/hokuriku/toyama/toyama/",
     "siteStatus": "verified",
@@ -1374,7 +1446,13 @@
     "siteNote": "利用者がアパホテルステイ〈富山〉と明示的に確認済み。サウナがたくさんある施設。改装前に訪問した可能性もあり、訪問時点のサウナ設備が現在の『頂（Itadaki）』と同じとは断定しない。",
     "originalName": "アパホテルステイ〈富山〉",
     "nameSource": "https://www.apahotel.com/hotel/hokuriku/toyama/toyama/",
-    "nameReview": "official-site"
+    "nameReview": "official-site",
+    "photoSource": "https://www3.apahotel.com/hotel/hokuriku/toyama/toyama/",
+    "photoCredit": "アパホテルステイ〈富山〉公式サイト",
+    "photoSubject": "現在のアパホテルステイ〈富山〉のサウナ『頂』",
+    "photoType": "official-site-photo",
+    "photoUsageStatus": "施設の実写真の掲載元URLを直接参照。再掲載・外部埋め込みの許諾は未確認。",
+    "photoSourceReviewedAt": "2026-10-10"
   },
   {
     "id": "sauna-4-07",
@@ -1404,7 +1482,7 @@
     "tier": "4",
     "note": "",
     "area": "",
-    "photo": "",
+    "photo": "https://onsen.nifty.com/cms_image/onsen/onsen-detail/onsen018329/25021801.jpg",
     "ordinal": 7,
     "officialUrl": "https://asaka-sauna-nagomi.com/",
     "siteStatus": "verified",
@@ -1412,7 +1490,13 @@
     "siteNote": "",
     "originalName": "朝霞サウナ 和（なごみ）",
     "nameSource": "https://asaka-sauna-nagomi.com/saunas/",
-    "nameReview": "official-site"
+    "nameReview": "official-site",
+    "photoSource": "https://onsen.nifty.com/tokorozawa-onsen/onsen018329/",
+    "photoCredit": "ニフティ温泉 — 朝霞サウナ 和",
+    "photoSubject": "朝霞サウナ 和のサウナ室",
+    "photoType": "external-publication-photo",
+    "photoUsageStatus": "施設の実写真の掲載元URLを直接参照。再掲載・外部埋め込みの許諾は未確認。",
+    "photoSourceReviewedAt": "2026-10-10"
   },
   {
     "id": "sauna-4-09",
@@ -1420,7 +1504,7 @@
     "tier": "4",
     "note": "",
     "area": "",
-    "photo": "",
+    "photo": "https://yublogss.com/wp-content/uploads/2024/12/Gd8XPffa0AEZLg_.jpeg",
     "ordinal": 8,
     "officialUrl": "https://floba-mitaka.jp/",
     "siteStatus": "verified",
@@ -1428,7 +1512,13 @@
     "siteNote": "",
     "originalName": "FLOBA(三鷹)",
     "nameSource": "https://floba-mitaka.jp/",
-    "nameReview": "official-site"
+    "nameReview": "official-site",
+    "photoSource": "https://yublogss.com/sauna-tokyo-floba/",
+    "photoCredit": "湯ブログ — 三鷹FLOBA訪問記事",
+    "photoSubject": "FLOBAのサウナ室",
+    "photoType": "external-publication-photo",
+    "photoUsageStatus": "施設の実写真の掲載元URLを直接参照。再掲載・外部埋め込みの許諾は未確認。",
+    "photoSourceReviewedAt": "2026-10-10"
   },
   {
     "id": "sauna-4-10",
@@ -1436,7 +1526,7 @@
     "tier": "4",
     "note": "",
     "area": "",
-    "photo": "",
+    "photo": "https://rstatic.enjoytokyo.jp/assets/images/article/59/215182/677712.jpg?1676015598=&p=t&w=1800",
     "ordinal": 9,
     "officialUrl": "https://www.seibu-leisure.co.jp/niwanoyu/index.html",
     "siteStatus": "verified",
@@ -1444,7 +1534,13 @@
     "siteNote": "",
     "originalName": "豊島園　庭の湯",
     "nameSource": "https://www.seibu-leisure.co.jp/niwanoyu/index.html",
-    "nameReview": "official-site"
+    "nameReview": "official-site",
+    "photoSource": "https://www.enjoytokyo.jp/article/201026/",
+    "photoCredit": "レッツエンジョイ東京 — 豊島園 庭の湯",
+    "photoSubject": "豊島園 庭の湯のサウナ室",
+    "photoType": "external-publication-photo",
+    "photoUsageStatus": "施設の実写真の掲載元URLを直接参照。再掲載・外部埋め込みの許諾は未確認。",
+    "photoSourceReviewedAt": "2026-10-10"
   },
   {
     "id": "sauna-4-11",
@@ -1452,7 +1548,7 @@
     "tier": "4",
     "note": "",
     "area": "",
-    "photo": "",
+    "photo": "https://trvimg.r10s.jp/share/image_up/184728/origin/b2c00a68471b75db042a35a33b5a58eab5f98d28.47.9.26.3.jpg?fit=inside%7C888%3A498",
     "ordinal": 10,
     "officialUrl": "https://sauna.meiseikosan.com/tachikawa/",
     "siteStatus": "verified",
@@ -1460,7 +1556,13 @@
     "siteNote": "",
     "originalName": "カプセルインミナミ立川店",
     "nameSource": "https://sauna.meiseikosan.com/tachikawa/",
-    "nameReview": "official-site"
+    "nameReview": "official-site",
+    "photoSource": "https://travel.rakuten.co.jp/HOTEL/184728/gallery.html",
+    "photoCredit": "楽天トラベル — カプセルインミナミ立川店",
+    "photoSubject": "カプセルインミナミ立川店のサウナ室",
+    "photoType": "external-publication-photo",
+    "photoUsageStatus": "施設の実写真の掲載元URLを直接参照。再掲載・外部埋め込みの許諾は未確認。",
+    "photoSourceReviewedAt": "2026-10-10"
   },
   {
     "id": "sauna-4-12",
@@ -1468,7 +1570,7 @@
     "tier": "4",
     "note": "値段高すぎ",
     "area": "",
-    "photo": "",
+    "photo": "https://onsen.nifty.com/cms_image/onsen/onsen-detail/onsen018187/onsen018187_1.jpg",
     "ordinal": 11,
     "officialUrl": "https://kiwamisauna.com/",
     "siteStatus": "verified",
@@ -1476,7 +1578,13 @@
     "siteNote": "KIWAMI SAUNA 名古屋・浅間町本店（1号店）。2026-10-10 利用者が最初に開業した店舗と明言。大須店ではない。公式ブランド案内: https://kiwamisauna.com/",
     "originalName": "KIWAMI SAUNA",
     "nameSource": "https://kiwamisauna.com/",
-    "nameReview": "official-site"
+    "nameReview": "official-site",
+    "photoSource": "https://onsen.nifty.com/nagoyashinai-onsen/onsen018187/",
+    "photoCredit": "ニフティ温泉 — KIWAMI SAUNA浅間町本店",
+    "photoSubject": "KIWAMI SAUNA名古屋本店のサウナ室",
+    "photoType": "external-publication-photo",
+    "photoUsageStatus": "施設の実写真の掲載元URLを直接参照。再掲載・外部埋め込みの許諾は未確認。",
+    "photoSourceReviewedAt": "2026-10-10"
   },
   {
     "id": "sauna-4-13",
@@ -1484,7 +1592,7 @@
     "tier": "4",
     "note": "狭い、高い",
     "area": "",
-    "photo": "",
+    "photo": "https://prcdn.freetls.fastly.net/release_image/42551/290/42551-290-d09930446a6d72af77a3654c27910976-800x600.jpg?auto=webp&bg-color=fff&fit=bounds&format=jpeg&height=1350&quality=85&width=1950",
     "ordinal": 12,
     "officialUrl": "https://hare-tabi.jp/",
     "siteStatus": "verified",
@@ -1492,7 +1600,13 @@
     "siteNote": "",
     "originalName": "HARE-TABI SAUNA",
     "nameSource": "https://hare-tabi.jp/",
-    "nameReview": "official-site"
+    "nameReview": "official-site",
+    "photoSource": "https://prtimes.jp/main/html/rd/p/000000290.000042551.html",
+    "photoCredit": "PR TIMES — HARE-TABI SAUNA関連プレスリリース",
+    "photoSubject": "HARE-TABI SAUNA & INN YOKOHAMAのサウナ室",
+    "photoType": "external-publication-photo",
+    "photoUsageStatus": "施設の実写真の掲載元URLを直接参照。再掲載・外部埋め込みの許諾は未確認。",
+    "photoSourceReviewedAt": "2026-10-10"
   },
   {
     "id": "sauna-4-14",
@@ -1500,7 +1614,7 @@
     "tier": "4",
     "note": "",
     "area": "",
-    "photo": "",
+    "photo": "https://cdn-ak.f.st-hatena.com/images/fotolife/k/kenichirouk/20260111/20260111154414.jpg",
     "ordinal": 13,
     "officialUrl": "https://rakuspa.com/musashi/",
     "siteStatus": "verified",
@@ -1508,7 +1622,13 @@
     "siteNote": "",
     "originalName": "らくスパ Station 武蔵小金井",
     "nameSource": "https://rakuspa.com/musashi/",
-    "nameReview": "official-site"
+    "nameReview": "official-site",
+    "photoSource": "https://yukatsu.hatenablog.com/entry/rakuspastation_musashikoganei/supersento/57",
+    "photoCredit": "湯活のススメ — RAKU SPA Station武蔵小金井",
+    "photoSubject": "RAKU SPA Station武蔵小金井のサウナ室",
+    "photoType": "external-publication-photo",
+    "photoUsageStatus": "施設の実写真の掲載元URLを直接参照。再掲載・外部埋め込みの許諾は未確認。",
+    "photoSourceReviewedAt": "2026-10-10"
   },
   {
     "id": "sauna-4-15",
@@ -1516,7 +1636,7 @@
     "tier": "4",
     "note": "",
     "area": "",
-    "photo": "",
+    "photo": "https://images.microcms-assets.io/assets/6e4c33ab994e413a8b9082545bbcda3e/46c6a8b2327343c4aa821ebf4086b0dd/img003.jpg",
     "ordinal": 14,
     "officialUrl": "https://www.komaeyu.com/",
     "siteStatus": "verified",
@@ -1524,7 +1644,13 @@
     "siteNote": "",
     "originalName": "狛江湯",
     "nameSource": "https://www.komaeyu.com/",
-    "nameReview": "official-site"
+    "nameReview": "official-site",
+    "photoSource": "https://chillplus.jp/spot/komaeyu",
+    "photoCredit": "Chill+ — 狛江湯",
+    "photoSubject": "狛江湯のサウナ室",
+    "photoType": "external-publication-photo",
+    "photoUsageStatus": "施設の実写真の掲載元URLを直接参照。再掲載・外部埋め込みの許諾は未確認。",
+    "photoSourceReviewedAt": "2026-10-10"
   },
   {
     "id": "sauna-4-16",
@@ -1554,7 +1680,7 @@
     "tier": "5",
     "note": "",
     "area": "",
-    "photo": "",
+    "photo": "https://imgcs.sauna-ikitai.com/pc66Ae7VtObpFwy4ua7B1WbwcRx2/1774607273426-800-600.jpg",
     "ordinal": 0,
     "officialUrl": "https://hatonoyu.jp/",
     "siteStatus": "verified",
@@ -1562,7 +1688,13 @@
     "siteNote": "",
     "originalName": "鳩の湯",
     "nameSource": "https://hatonoyu.jp/",
-    "nameReview": "official-site"
+    "nameReview": "official-site",
+    "photoSource": "https://sauna-ikitai.com/saunas/4400/posts",
+    "photoCredit": "サウナイキタイ — 鳩の湯の投稿写真",
+    "photoSubject": "鳩の湯の夜の外観",
+    "photoType": "external-publication-photo",
+    "photoUsageStatus": "施設の実写真の掲載元URLを直接参照。再掲載・外部埋め込みの許諾は未確認。",
+    "photoSourceReviewedAt": "2026-10-10"
   },
   {
     "id": "sauna-5-02",
@@ -1570,7 +1702,7 @@
     "tier": "5",
     "note": "",
     "area": "",
-    "photo": "",
+    "photo": "https://www.city.tachikawa.lg.jp/_res/projects/default_project/_page_/001/002/235/matumiyu.jpg",
     "ordinal": 1,
     "officialUrl": "https://www.1010.or.jp/map/item/item-cnt-652",
     "siteStatus": "directory",
@@ -1578,7 +1710,13 @@
     "siteNote": "東京都立川市羽衣町の松見湯として2026-10-10 利用者が特定を確認。独自公式HP未確認のため東京都浴場組合の施設ページを案内。",
     "originalName": "松見湯",
     "nameSource": "https://www.city.tachikawa.lg.jp/kurashi/shohiseikatsu/1002223/1002235.html",
-    "nameReview": "municipal-record"
+    "nameReview": "municipal-record",
+    "photoSource": "https://www.city.tachikawa.lg.jp/kurashi/shohiseikatsu/1002223/1002235.html",
+    "photoCredit": "立川市公式サイト — 銭湯案内",
+    "photoSubject": "立川市の松見湯の外観",
+    "photoType": "official-site-photo",
+    "photoUsageStatus": "施設の実写真の掲載元URLを直接参照。再掲載・外部埋め込みの許諾は未確認。",
+    "photoSourceReviewedAt": "2026-10-10"
   },
   {
     "id": "sauna-5-03",
@@ -1586,7 +1724,7 @@
     "tier": "5",
     "note": "",
     "area": "",
-    "photo": "",
+    "photo": "https://img.spaworks.jp/facility/211/211_202302032128_FVRVM_l.jpg",
     "ordinal": 2,
     "officialUrl": "https://www.yudokoro-kasai.com/",
     "siteStatus": "verified",
@@ -1594,7 +1732,13 @@
     "siteNote": "",
     "originalName": "スーパー銭湯湯処葛西",
     "nameSource": "https://www.yudokoro-kasai.com/",
-    "nameReview": "official-site"
+    "nameReview": "official-site",
+    "photoSource": "https://spaworks.jp/facility/211",
+    "photoCredit": "スパワークス — 湯処葛西",
+    "photoSubject": "スーパー銭湯 湯処葛西のサウナ室",
+    "photoType": "external-publication-photo",
+    "photoUsageStatus": "施設の実写真の掲載元URLを直接参照。再掲載・外部埋め込みの許諾は未確認。",
+    "photoSourceReviewedAt": "2026-10-10"
   },
   {
     "id": "sauna-5-04",
@@ -1624,7 +1768,7 @@
     "tier": "5",
     "note": "うるさすぎ",
     "area": "",
-    "photo": "",
+    "photo": "https://prcdn.freetls.fastly.net/release_image/103539/3/103539-3-023a08fb3b4b8f33d8c341c172a18b75-3900x2600.jpg?auto=webp&fit=bounds&format=jpeg&height=1350&quality=85%2C65&width=1950",
     "ordinal": 4,
     "officialUrl": "https://canalresort.jp/",
     "siteStatus": "verified",
@@ -1632,7 +1776,13 @@
     "siteNote": "",
     "originalName": "キャナルリゾート",
     "nameSource": "https://canalresort.jp/",
-    "nameReview": "official-site"
+    "nameReview": "official-site",
+    "photoSource": "https://prtimes.jp/main/html/rd/p/000000003.000103539.html",
+    "photoCredit": "PR TIMES — キャナルリゾート関連プレスリリース",
+    "photoSubject": "キャナルリゾートの大型サウナ室",
+    "photoType": "external-publication-photo",
+    "photoUsageStatus": "施設の実写真の掲載元URLを直接参照。再掲載・外部埋め込みの許諾は未確認。",
+    "photoSourceReviewedAt": "2026-10-10"
   },
   {
     "id": "sauna-5-06",
@@ -1640,7 +1790,7 @@
     "tier": "5",
     "note": "",
     "area": "",
-    "photo": "",
+    "photo": "https://www.supersento.com/kyusyu/saga/img/kamizono10.jpg",
     "ordinal": 5,
     "officialUrl": "https://www.komorebi.spa/",
     "siteStatus": "verified",
@@ -1648,6 +1798,12 @@
     "siteNote": "佐賀の湯処 こもれび。2026-10-10 利用者が施設特定を確認。",
     "originalName": "こもれび",
     "nameSource": "https://www.komorebi.spa/",
-    "nameReview": "official-site"
+    "nameReview": "official-site",
+    "photoSource": "https://www.supersento.com/kyusyu/saga/kamizono.html",
+    "photoCredit": "スーパー銭湯全国検索 — 佐賀の湯処こもれび",
+    "photoSubject": "佐賀の湯処KOMOREBIのバレルサウナ",
+    "photoType": "external-publication-photo",
+    "photoUsageStatus": "施設の実写真の掲載元URLを直接参照。再掲載・外部埋め込みの許諾は未確認。",
+    "photoSourceReviewedAt": "2026-10-10"
   }
 ]
