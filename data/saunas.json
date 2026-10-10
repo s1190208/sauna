@@ -294,9 +294,9 @@
     "photo": "",
     "ordinal": 0,
     "officialUrl": "https://hoshinoresorts.com/ja/hotels/omo7asahikawa/sp/plateau/",
-    "siteStatus": "candidate",
+    "siteStatus": "verified",
     "closed": false,
-    "siteNote": "OMO7旭川のサウナ・プラトーとして仮特定"
+    "siteNote": "OMO7旭川 サウナプラトー。2026-10-10 利用者が施設特定を確認。公式施設案内: https://hoshinoresorts.com/ja/hotels/omo7asahikawa/sp/plateau/"
   },
   {
     "id": "sauna-2-5-02",
@@ -855,7 +855,7 @@
     "officialUrl": "",
     "siteStatus": "needs-confirmation",
     "closed": false,
-    "siteNote": "アパホテルステイ〈富山〉とアパホテル〈富山駅前〉のどちらか確認待ち"
+    "siteNote": "旧アパホテル〈富山〉（富山市窪新町6-1）は2024-02-22 アパホテルステイ〈富山〉へリブランド。現サウナは「頂 Itadaki」。利用者が訪問した施設・時期を確認待ち。参考: https://www.apahotel.com/hotel/hokuriku/toyama/toyama/"
   },
   {
     "id": "sauna-4-07",
@@ -931,9 +931,9 @@
     "photo": "",
     "ordinal": 11,
     "officialUrl": "https://kiwamisauna.com/",
-    "siteStatus": "candidate",
+    "siteStatus": "verified",
     "closed": false,
-    "siteNote": "名古屋・浅間町本店/大須店の指定確認待ち"
+    "siteNote": "KIWAMI SAUNA 名古屋・浅間町本店（1号店）。2026-10-10 利用者が最初に開業した店舗と明言。大須店ではない。公式ブランド案内: https://kiwamisauna.com/"
   },
   {
     "id": "sauna-4-13",
@@ -1011,7 +1011,7 @@
     "officialUrl": "https://www.1010.or.jp/map/item/item-cnt-652",
     "siteStatus": "directory",
     "closed": false,
-    "siteNote": "独自の公式HPを確認できず。東京都浴場組合の施設ページ"
+    "siteNote": "東京都立川市羽衣町の松見湯として2026-10-10 利用者が特定を確認。独自公式HP未確認のため東京都浴場組合の施設ページを案内。"
   },
   {
     "id": "sauna-5-03",
@@ -1061,8 +1061,8 @@
     "photo": "",
     "ordinal": 5,
     "officialUrl": "https://www.komorebi.spa/",
-    "siteStatus": "candidate",
+    "siteStatus": "verified",
     "closed": false,
-    "siteNote": "佐賀の湯処こもれびとして仮特定"
+    "siteNote": "佐賀の湯処 こもれび。2026-10-10 利用者が施設特定を確認。"
   }
 ]
