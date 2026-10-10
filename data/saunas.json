@@ -73,7 +73,10 @@
     "photoCredit": "ホテルマウント富士 公式サイト",
     "photoSubject": "富嶽蒸景からの富士山",
     "photoType": "official-external-image",
-    "photoUsageStatus": "公式画像URLへの直接参照。転載許諾の有無は未確認。"
+    "photoUsageStatus": "公式画像URLへの直接参照。転載許諾の有無は未確認。",
+    "originalName": "ホテルマウント富士",
+    "nameSource": "https://www.mtfuji-hotel.com/spa/sauna.html",
+    "nameReview": "official-site"
   },
   {
     "id": "sauna-hall-05",
@@ -222,16 +225,25 @@
   },
   {
     "id": "sauna-2-02",
-    "name": "ニューウイング",
+    "name": "スパ＆カプセル ニューウイング",
     "tier": "2",
     "note": "みんなでワイワイ",
     "area": "",
-    "photo": "",
+    "photo": "https://www.spa-new-wing.com/wp-content/uploads/spa_img005.jpg",
     "ordinal": 1,
     "officialUrl": "https://www.spa-new-wing.com/",
     "siteStatus": "verified",
     "closed": false,
-    "siteNote": ""
+    "siteNote": "",
+    "originalName": "ニューウイング",
+    "nameSource": "https://www.spa-new-wing.com/",
+    "nameReview": "official-site",
+    "photoSource": "https://www.spa-new-wing.com/spa",
+    "photoCredit": "スパ＆カプセル ニューウイング 公式サイト",
+    "photoSubject": "冷水ミニプールと水風呂",
+    "photoType": "official-site-image",
+    "photoUsageStatus": "公式サイトの掲載画像URLを直接参照。転載許諾は未確認。サイト画像表示の可否は掲載元サーバに依存。",
+    "photoSourceReviewedAt": "2026-10-10"
   },
   {
     "id": "sauna-2-03",
@@ -255,7 +267,7 @@
     "tier": "2",
     "note": "サ飯、水風呂",
     "area": "",
-    "photo": "",
+    "photo": "https://sauna-center.jp/img/toppage/img-shop_01.jpg",
     "ordinal": 3,
     "officialUrl": "https://sauna-center.jp/",
     "siteStatus": "verified",
@@ -263,7 +275,13 @@
     "siteNote": "ユーザーが鶯谷本店と明示確認。所在地は東京都台東区下谷2-4-7。サウナセンター稲荷町店とは別施設。",
     "originalName": "サウナセンター",
     "nameSource": "https://sauna-center.jp/",
-    "nameReview": "user-confirmed; official-site corroborated"
+    "nameReview": "user-confirmed; official-site corroborated",
+    "photoSource": "https://sauna-center.jp/",
+    "photoCredit": "サウナセンター 公式サイト",
+    "photoSubject": "鶯谷本店の紹介写真",
+    "photoType": "official-site-image",
+    "photoUsageStatus": "公式サイトの掲載画像URLを直接参照。転載許諾は未確認。サイト画像表示の可否は掲載元サーバに依存。",
+    "photoSourceReviewedAt": "2026-10-10"
   },
   {
     "id": "sauna-2-05",
@@ -315,16 +333,25 @@
   },
   {
     "id": "sauna-2-08",
-    "name": "ジートピア",
+    "name": "カプセルホテル＆サウナ ジートピア",
     "tier": "2",
     "note": "",
     "area": "",
-    "photo": "",
+    "photo": "https://www.funabashi-sauna.com/PMzTVwDW/wp-content/themes/g-topia/img/img_sauna_01.jpg",
     "ordinal": 7,
     "officialUrl": "https://funabashi-sauna.com/",
     "siteStatus": "verified",
     "closed": false,
-    "siteNote": ""
+    "siteNote": "",
+    "originalName": "ジートピア",
+    "nameSource": "https://funabashi-sauna.com/",
+    "nameReview": "official-site",
+    "photoSource": "https://funabashi-sauna.com/sauna/",
+    "photoCredit": "ジートピア 公式サイト",
+    "photoSubject": "高温サウナ",
+    "photoType": "official-site-image",
+    "photoUsageStatus": "公式サイトの掲載画像URLを直接参照。転載許諾は未確認。サイト画像表示の可否は掲載元サーバに依存。",
+    "photoSourceReviewedAt": "2026-10-10"
   },
   {
     "id": "sauna-2-09",
@@ -332,12 +359,21 @@
     "tier": "2",
     "note": "2時間に1回アウフ",
     "area": "",
-    "photo": "",
+    "photo": "https://www.shinagawa-sauna.com/wp-content/uploads/2024/11/kuu_01-1024x538.jpg",
     "ordinal": 8,
     "officialUrl": "https://www.shinagawa-sauna.com/",
     "siteStatus": "verified",
     "closed": false,
-    "siteNote": ""
+    "siteNote": "",
+    "originalName": "品川サウナ",
+    "nameSource": "https://www.shinagawa-sauna.com/",
+    "nameReview": "official-site",
+    "photoSource": "https://www.shinagawa-sauna.com/facility/",
+    "photoCredit": "品川サウナ 公式サイト",
+    "photoSubject": "サウナ『空 -KUU-』",
+    "photoType": "official-site-image",
+    "photoUsageStatus": "公式サイトの掲載画像URLを直接参照。転載許諾は未確認。サイト画像表示の可否は掲載元サーバに依存。",
+    "photoSourceReviewedAt": "2026-10-10"
   },
   {
     "id": "sauna-2-10",
@@ -357,7 +393,7 @@
   },
   {
     "id": "sauna-2-11",
-    "name": "ゴールデンタイム高松",
+    "name": "サウナ＆カプセル ゴールデンタイム高松",
     "tier": "2",
     "note": "",
     "area": "",
@@ -366,7 +402,10 @@
     "officialUrl": "https://goldentime-takamatsu.com/",
     "siteStatus": "verified",
     "closed": false,
-    "siteNote": ""
+    "siteNote": "",
+    "originalName": "ゴールデンタイム高松",
+    "nameSource": "https://goldentime-takamatsu.com/",
+    "nameReview": "official-site"
   },
   {
     "id": "sauna-2-5-01",
@@ -563,7 +602,10 @@
     "officialUrl": "https://www.nikoh.info/",
     "siteStatus": "verified",
     "closed": false,
-    "siteNote": ""
+    "siteNote": "",
+    "originalName": "ニコーリフレ",
+    "nameSource": "https://www.nikoh.info/spa-sauna/",
+    "nameReview": "official-site"
   },
   {
     "id": "sauna-3-07",
@@ -587,12 +629,21 @@
     "tier": "3",
     "note": "",
     "area": "",
-    "photo": "",
+    "photo": "https://sauna-tokyo.jp/wp-content/uploads/2023/04/IMG_0030-1.jpeg",
     "ordinal": 7,
     "officialUrl": "https://sauna-tokyo.jp/",
     "siteStatus": "verified",
     "closed": false,
-    "siteNote": ""
+    "siteNote": "",
+    "originalName": "サウナ東京",
+    "nameSource": "https://sauna-tokyo.jp/",
+    "nameReview": "official-site",
+    "photoSource": "https://sauna-tokyo.jp/",
+    "photoCredit": "サウナ東京 公式サイト",
+    "photoSubject": "メインサウナ『蒸喜乱舞』",
+    "photoType": "official-site-image",
+    "photoUsageStatus": "公式サイトの掲載画像URLを直接参照。転載許諾は未確認。サイト画像表示の可否は掲載元サーバに依存。",
+    "photoSourceReviewedAt": "2026-10-10"
   },
   {
     "id": "sauna-3-09",
@@ -609,7 +660,7 @@
   },
   {
     "id": "sauna-3-10",
-    "name": "レインボー本八幡",
+    "name": "サウナ＆カプセルホテル レインボー本八幡店",
     "tier": "3",
     "note": "",
     "area": "",
@@ -618,7 +669,10 @@
     "officialUrl": "https://hpdsp.jp/rainbow-motoyawata/",
     "siteStatus": "verified",
     "closed": false,
-    "siteNote": ""
+    "siteNote": "",
+    "originalName": "レインボー本八幡",
+    "nameSource": "https://hpdsp.jp/rainbow-motoyawata/",
+    "nameReview": "official-site"
   },
   {
     "id": "sauna-3-11",
@@ -626,7 +680,7 @@
     "tier": "3",
     "note": "",
     "area": "",
-    "photo": "",
+    "photo": "https://marushinspa.jp/images/guide_pic04.jpg",
     "ordinal": 10,
     "officialUrl": "https://www.marushinspa.jp/",
     "siteStatus": "verified",
@@ -634,7 +688,13 @@
     "siteNote": "",
     "originalName": "笹塚マルシンスパ",
     "nameSource": "https://www.marushinspa.jp/",
-    "nameReview": "official-site"
+    "nameReview": "official-site",
+    "photoSource": "https://marushinspa.jp/guide/",
+    "photoCredit": "天空のアジト マルシンスパ 公式サイト",
+    "photoSubject": "メインサウナ室",
+    "photoType": "official-site-image",
+    "photoUsageStatus": "公式サイトの掲載画像URLを直接参照。転載許諾は未確認。サイト画像表示の可否は掲載元サーバに依存。",
+    "photoSourceReviewedAt": "2026-10-10"
   },
   {
     "id": "sauna-3-12",
@@ -667,16 +727,25 @@
   },
   {
     "id": "sauna-3-14",
-    "name": "ニュージャパン",
+    "name": "サウナ＆スパ ニュージャパン梅田店",
     "tier": "3",
     "note": "",
     "area": "",
-    "photo": "",
+    "photo": "https://www.umedasauna-newjapan.jp/_common/img/sauna/sauna_img_02.jpg",
     "ordinal": 13,
     "officialUrl": "https://www.umedasauna-newjapan.jp/",
     "siteStatus": "verified",
     "closed": false,
-    "siteNote": ""
+    "siteNote": "",
+    "originalName": "ニュージャパン",
+    "nameSource": "https://www.umedasauna-newjapan.jp/sauna/",
+    "nameReview": "official-site",
+    "photoSource": "https://www.umedasauna-newjapan.jp/sauna/",
+    "photoCredit": "ニュージャパン梅田 公式サイト",
+    "photoSubject": "スパ＆サウナ施設",
+    "photoType": "official-site-image",
+    "photoUsageStatus": "公式サイトの掲載画像URLを直接参照。転載許諾は未確認。サイト画像表示の可否は掲載元サーバに依存。",
+    "photoSourceReviewedAt": "2026-10-10"
   },
   {
     "id": "sauna-3-15",
@@ -779,7 +848,10 @@
     "officialUrl": "https://saunarium-lava.com/",
     "siteStatus": "verified",
     "closed": false,
-    "siteNote": ""
+    "siteNote": "",
+    "originalName": "サウナリウム高円寺",
+    "nameSource": "https://saunarium-lava.com/",
+    "nameReview": "official-site"
   },
   {
     "id": "sauna-3-22",
@@ -841,16 +913,25 @@
   },
   {
     "id": "sauna-3-26",
-    "name": "SAUNA EAGLE",
+    "name": "サウナイーグル",
     "tier": "3",
     "note": "",
     "area": "",
-    "photo": "",
+    "photo": "https://sauna-eagle.jp/wp-content/themes/sauna/assets/img/bath/bath-img-01.jpg",
     "ordinal": 25,
     "officialUrl": "https://sauna-eagle.jp/",
     "siteStatus": "verified",
     "closed": false,
-    "siteNote": ""
+    "siteNote": "",
+    "originalName": "SAUNA EAGLE",
+    "nameSource": "https://sauna-eagle.jp/",
+    "nameReview": "official-site",
+    "photoSource": "https://sauna-eagle.jp/bath/",
+    "photoCredit": "サウナイーグル 公式サイト",
+    "photoSubject": "メインサウナ",
+    "photoType": "official-site-image",
+    "photoUsageStatus": "公式サイトの掲載画像URLを直接参照。転載許諾は未確認。サイト画像表示の可否は掲載元サーバに依存。",
+    "photoSourceReviewedAt": "2026-10-10"
   },
   {
     "id": "sauna-3-27",
@@ -995,7 +1076,10 @@
     "officialUrl": "https://www.apahotel.com/hotel/hokuriku/toyama/toyama/",
     "siteStatus": "verified",
     "closed": false,
-    "siteNote": "利用者がアパホテルステイ〈富山〉と明示的に確認済み。サウナがたくさんある施設。改装前に訪問した可能性もあり、訪問時点のサウナ設備が現在の『頂（Itadaki）』と同じとは断定しない。"
+    "siteNote": "利用者がアパホテルステイ〈富山〉と明示的に確認済み。サウナがたくさんある施設。改装前に訪問した可能性もあり、訪問時点のサウナ設備が現在の『頂（Itadaki）』と同じとは断定しない。",
+    "originalName": "アパホテルステイ〈富山〉",
+    "nameSource": "https://www.apahotel.com/hotel/hokuriku/toyama/toyama/",
+    "nameReview": "official-site"
   },
   {
     "id": "sauna-4-07",
@@ -1021,7 +1105,10 @@
     "officialUrl": "https://asaka-sauna-nagomi.com/",
     "siteStatus": "verified",
     "closed": false,
-    "siteNote": ""
+    "siteNote": "",
+    "originalName": "朝霞サウナ 和（なごみ）",
+    "nameSource": "https://asaka-sauna-nagomi.com/saunas/",
+    "nameReview": "official-site"
   },
   {
     "id": "sauna-4-09",
@@ -1070,7 +1157,7 @@
   },
   {
     "id": "sauna-4-12",
-    "name": "KIWAMI SAUNA",
+    "name": "KIWAMI SAUNA 本店（名古屋・浅間町）",
     "tier": "4",
     "note": "値段高すぎ",
     "area": "",
@@ -1079,11 +1166,14 @@
     "officialUrl": "https://kiwamisauna.com/",
     "siteStatus": "verified",
     "closed": false,
-    "siteNote": "KIWAMI SAUNA 名古屋・浅間町本店（1号店）。2026-10-10 利用者が最初に開業した店舗と明言。大須店ではない。公式ブランド案内: https://kiwamisauna.com/"
+    "siteNote": "KIWAMI SAUNA 名古屋・浅間町本店（1号店）。2026-10-10 利用者が最初に開業した店舗と明言。大須店ではない。公式ブランド案内: https://kiwamisauna.com/",
+    "originalName": "KIWAMI SAUNA",
+    "nameSource": "https://kiwamisauna.com/",
+    "nameReview": "official-site"
   },
   {
     "id": "sauna-4-13",
-    "name": "HARE-TABI SAUNA",
+    "name": "HARE-TABI SAUNA & INN YOKOHAMA",
     "tier": "4",
     "note": "狭い、高い",
     "area": "",
@@ -1092,7 +1182,10 @@
     "officialUrl": "https://hare-tabi.jp/",
     "siteStatus": "verified",
     "closed": false,
-    "siteNote": ""
+    "siteNote": "",
+    "originalName": "HARE-TABI SAUNA",
+    "nameSource": "https://hare-tabi.jp/",
+    "nameReview": "official-site"
   },
   {
     "id": "sauna-4-14",
