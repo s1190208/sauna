@@ -118,7 +118,7 @@
     "tier": "1",
     "note": "",
     "area": "",
-    "photo": "",
+    "photo": "https://prcdn.freetls.fastly.net/release_image/29463/185/29463-185-934e1f8de94512b62c605c0231046df9-3900x2925.jpg?auto=webp&bg-color=fff&fit=bounds&format=jpeg&height=1350&quality=85%2C65&width=1950",
     "ordinal": 1,
     "officialUrl": "https://www.saunahokuou.com/",
     "siteStatus": "verified",
@@ -126,7 +126,12 @@
     "siteNote": "",
     "originalName": "北欧",
     "nameSource": "https://www.saunahokuou.com/",
-    "nameReview": "official-site"
+    "nameReview": "official-site",
+    "photoSource": "https://prtimes.jp/main/html/rd/p/000000185.000029463.html",
+    "photoCredit": "株式会社バルクオムのプレスリリース（PR TIMES）",
+    "photoSubject": "サウナ＆カプセルホテル北欧・サウナ室",
+    "photoType": "press-release-photo",
+    "photoUsageStatus": "外部掲載の画像URLを直接参照。転載許諾の有無は未確認。"
   },
   {
     "id": "sauna-1-03",
@@ -134,7 +139,7 @@
     "tier": "1",
     "note": "",
     "area": "",
-    "photo": "",
+    "photo": "https://saunabrosweb.jp/wp-content/uploads/2023/12/0043.jpg",
     "ordinal": 2,
     "officialUrl": "https://everyday-sauna.com/stores/%E5%85%AB%E7%8E%8B%E5%AD%90%E5%BA%97-2/",
     "siteStatus": "verified",
@@ -142,7 +147,12 @@
     "siteNote": "",
     "originalName": "毎日サウナ八王子",
     "nameSource": "https://everyday-sauna.com/stores/%E5%85%AB%E7%8E%8B%E5%AD%90%E5%BA%97-2/",
-    "nameReview": "official-site"
+    "nameReview": "official-site",
+    "photoSource": "https://saunabrosweb.jp/newopen_mainichisauna_hachiohji_1/2023/12/21/",
+    "photoCredit": "SAUNA BROS.WEB",
+    "photoSubject": "毎日サウナ八王子店・薪サウナ室",
+    "photoType": "media-photo",
+    "photoUsageStatus": "外部掲載の画像URLを直接参照。転載許諾の有無は未確認。"
   },
   {
     "id": "sauna-1-5-01",
@@ -150,12 +160,17 @@
     "tier": "1.5",
     "note": "",
     "area": "",
-    "photo": "",
+    "photo": "https://images.microcms-assets.io/assets/6e4c33ab994e413a8b9082545bbcda3e/33f723871b304bae9a505414d6f97fd5/DSC_6150.jpg",
     "ordinal": 0,
     "officialUrl": "https://www.wellbe.co.jp/imaike/",
     "siteStatus": "verified",
     "closed": false,
-    "siteNote": ""
+    "siteNote": "",
+    "photoSource": "https://www.chillplus.jp/spot/wellbe-imaike",
+    "photoCredit": "Chill+",
+    "photoSubject": "ウェルビー今池・サウナ室",
+    "photoType": "media-photo",
+    "photoUsageStatus": "外部掲載の画像URLを直接参照。転載許諾の有無は未確認。"
   },
   {
     "id": "sauna-1-5-02",
