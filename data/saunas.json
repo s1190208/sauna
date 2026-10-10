@@ -1,7 +1,7 @@
 [
   {
     "id": "sauna-hall-01",
-    "name": "らかんの湯",
+    "name": "御船山楽園ホテル らかんの湯",
     "tier": "hall",
     "note": "",
     "area": "",
@@ -10,11 +10,14 @@
     "officialUrl": "https://www.mifuneyama.co.jp/dayuse.html",
     "siteStatus": "verified",
     "closed": false,
-    "siteNote": ""
+    "siteNote": "",
+    "originalName": "らかんの湯",
+    "nameSource": "https://www.mifuneyama.co.jp/",
+    "nameReview": "official-site"
   },
   {
     "id": "sauna-hall-02",
-    "name": "The sauna",
+    "name": "The Sauna",
     "tier": "hall",
     "note": "",
     "area": "",
@@ -23,11 +26,14 @@
     "officialUrl": "https://lampinc.co.jp/nojiriko/sauna/",
     "siteStatus": "verified",
     "closed": false,
-    "siteNote": ""
+    "siteNote": "",
+    "originalName": "The sauna",
+    "nameSource": "https://lampinc.co.jp/nojiriko/sauna/",
+    "nameReview": "official-site"
   },
   {
     "id": "sauna-hall-03",
-    "name": "il-azzurri",
+    "name": "il azzurri",
     "tier": "hall",
     "note": "",
     "area": "",
@@ -36,7 +42,10 @@
     "officialUrl": "https://ilazzurri.by-onko-chishin.com/",
     "siteStatus": "verified",
     "closed": false,
-    "siteNote": ""
+    "siteNote": "",
+    "originalName": "il-azzurri",
+    "nameSource": "https://il-azzurri.com/",
+    "nameReview": "official-site"
   },
   {
     "id": "sauna-hall-04",
@@ -53,7 +62,7 @@
   },
   {
     "id": "sauna-hall-05",
-    "name": "厚木健康センター",
+    "name": "湯乃泉 東名厚木健康センター",
     "tier": "hall",
     "note": "",
     "area": "",
@@ -62,11 +71,14 @@
     "officialUrl": "https://yunoizumi.com/atsugi/",
     "siteStatus": "verified",
     "closed": true,
-    "siteNote": ""
+    "siteNote": "",
+    "originalName": "厚木健康センター",
+    "nameSource": "https://yunoizumi.com/atsugi/",
+    "nameReview": "official-site"
   },
   {
     "id": "sauna-1-01",
-    "name": "レインボー新小岩",
+    "name": "サウナ＆カプセルホテル・レインボー新小岩店",
     "tier": "1",
     "note": "",
     "area": "",
@@ -75,11 +87,14 @@
     "officialUrl": "https://hpdsp.jp/rainbow-sinkoiwa/",
     "siteStatus": "verified",
     "closed": false,
-    "siteNote": ""
+    "siteNote": "",
+    "originalName": "レインボー新小岩",
+    "nameSource": "https://hpdsp.jp/rainbow-sinkoiwa/",
+    "nameReview": "official-site"
   },
   {
     "id": "sauna-1-02",
-    "name": "北欧",
+    "name": "サウナ＆カプセルホテル北欧",
     "tier": "1",
     "note": "",
     "area": "",
@@ -88,11 +103,14 @@
     "officialUrl": "https://www.saunahokuou.com/",
     "siteStatus": "verified",
     "closed": false,
-    "siteNote": ""
+    "siteNote": "",
+    "originalName": "北欧",
+    "nameSource": "https://www.saunahokuou.com/",
+    "nameReview": "official-site"
   },
   {
     "id": "sauna-1-03",
-    "name": "毎日サウナ八王子",
+    "name": "毎日サウナ 八王子店",
     "tier": "1",
     "note": "",
     "area": "",
@@ -101,7 +119,10 @@
     "officialUrl": "https://everyday-sauna.com/stores/%E5%85%AB%E7%8E%8B%E5%AD%90%E5%BA%97-2/",
     "siteStatus": "verified",
     "closed": false,
-    "siteNote": ""
+    "siteNote": "",
+    "originalName": "毎日サウナ八王子",
+    "nameSource": "https://everyday-sauna.com/stores/%E5%85%AB%E7%8E%8B%E5%AD%90%E5%BA%97-2/",
+    "nameReview": "official-site"
   },
   {
     "id": "sauna-1-5-01",
@@ -118,7 +139,7 @@
   },
   {
     "id": "sauna-1-5-02",
-    "name": "大東洋",
+    "name": "サウナ＆スパ カプセルホテル大東洋",
     "tier": "1.5",
     "note": "",
     "area": "",
@@ -127,7 +148,10 @@
     "officialUrl": "https://www.daitoyo.co.jp/spa/mens/",
     "siteStatus": "verified",
     "closed": false,
-    "siteNote": ""
+    "siteNote": "",
+    "originalName": "大東洋",
+    "nameSource": "https://www.daitoyo.co.jp/spa/mens/",
+    "nameReview": "official-site"
   },
   {
     "id": "sauna-1-5-03",
@@ -196,7 +220,7 @@
   },
   {
     "id": "sauna-2-05",
-    "name": "草加健康センター",
+    "name": "湯乃泉 草加健康センター",
     "tier": "2",
     "note": "",
     "area": "",
@@ -205,11 +229,14 @@
     "officialUrl": "https://yunoizumi.com/souka/",
     "siteStatus": "verified",
     "closed": false,
-    "siteNote": ""
+    "siteNote": "",
+    "originalName": "草加健康センター",
+    "nameSource": "https://yunoizumi.com/souka/",
+    "nameReview": "official-site"
   },
   {
     "id": "sauna-2-06",
-    "name": "なにわ健康センター湯〜トピア",
+    "name": "なにわ健康ランド 湯〜トピア",
     "tier": "2",
     "note": "ちりとり鍋",
     "area": "",
@@ -218,11 +245,14 @@
     "officialUrl": "https://naniwa-utopia.com/",
     "siteStatus": "verified",
     "closed": false,
-    "siteNote": ""
+    "siteNote": "",
+    "originalName": "なにわ健康センター湯〜トピア",
+    "nameSource": "https://naniwa-utopia.com/",
+    "nameReview": "official-site"
   },
   {
     "id": "sauna-2-07",
-    "name": "神戸サウナ&スパ",
+    "name": "神戸サウナ＆スパ",
     "tier": "2",
     "note": "",
     "area": "",
@@ -231,7 +261,10 @@
     "officialUrl": "https://www.kobe-sauna.co.jp/",
     "siteStatus": "verified",
     "closed": false,
-    "siteNote": ""
+    "siteNote": "",
+    "originalName": "神戸サウナ&スパ",
+    "nameSource": "https://www.kobe-sauna.co.jp/",
+    "nameReview": "official-site"
   },
   {
     "id": "sauna-2-08",
@@ -261,7 +294,7 @@
   },
   {
     "id": "sauna-2-10",
-    "name": "タイムズスパレスタ",
+    "name": "タイムズ スパ・レスタ",
     "tier": "2",
     "note": "",
     "area": "",
@@ -270,7 +303,10 @@
     "officialUrl": "https://www.timesspa-resta.jp/",
     "siteStatus": "verified",
     "closed": false,
-    "siteNote": ""
+    "siteNote": "",
+    "originalName": "タイムズスパレスタ",
+    "nameSource": "https://www.timesspa-resta.jp/",
+    "nameReview": "official-site"
   },
   {
     "id": "sauna-2-11",
@@ -287,7 +323,7 @@
   },
   {
     "id": "sauna-2-5-01",
-    "name": "OMO7",
+    "name": "OMO7旭川 サウナプラトー",
     "tier": "2.5",
     "note": "動物サウナ",
     "area": "",
@@ -296,11 +332,14 @@
     "officialUrl": "https://hoshinoresorts.com/ja/hotels/omo7asahikawa/sp/plateau/",
     "siteStatus": "verified",
     "closed": false,
-    "siteNote": "OMO7旭川 サウナプラトー。2026-10-10 利用者が施設特定を確認。公式施設案内: https://hoshinoresorts.com/ja/hotels/omo7asahikawa/sp/plateau/"
+    "siteNote": "OMO7旭川 サウナプラトー。2026-10-10 利用者が施設特定を確認。公式施設案内: https://hoshinoresorts.com/ja/hotels/omo7asahikawa/sp/plateau/",
+    "originalName": "OMO7",
+    "nameSource": "https://hoshinoresorts.com/ja/hotels/omo7asahikawa/sp/plateau/",
+    "nameReview": "official-site"
   },
   {
     "id": "sauna-2-5-02",
-    "name": "じょんのび",
+    "name": "じょんのび館",
     "tier": "2.5",
     "note": "セルフロウリュ",
     "area": "",
@@ -309,11 +348,14 @@
     "officialUrl": "https://www.jonnobi.com/",
     "siteStatus": "verified",
     "closed": false,
-    "siteNote": ""
+    "siteNote": "",
+    "originalName": "じょんのび",
+    "nameSource": "https://www.jonnobi.com/",
+    "nameReview": "official-site"
   },
   {
     "id": "sauna-2-5-03",
-    "name": "しきじ",
+    "name": "サウナしきじ",
     "tier": "2.5",
     "note": "",
     "area": "",
@@ -322,11 +364,14 @@
     "officialUrl": "https://www.saunashikiji.jp/",
     "siteStatus": "verified",
     "closed": false,
-    "siteNote": ""
+    "siteNote": "",
+    "originalName": "しきじ",
+    "nameSource": "https://www.saunashikiji.jp/",
+    "nameReview": "official-site"
   },
   {
     "id": "sauna-2-5-04",
-    "name": "スパ•アルプス",
+    "name": "スパ・アルプス",
     "tier": "2.5",
     "note": "",
     "area": "",
@@ -335,7 +380,10 @@
     "officialUrl": "https://www.sauna-alps.com/",
     "siteStatus": "verified",
     "closed": false,
-    "siteNote": ""
+    "siteNote": "",
+    "originalName": "スパ•アルプス",
+    "nameSource": "https://www.sauna-alps.com/",
+    "nameReview": "official-site"
   },
   {
     "id": "sauna-2-5-05",
@@ -404,7 +452,7 @@
   },
   {
     "id": "sauna-3-02",
-    "name": "テルマー湯",
+    "name": "新宿天然温泉 テルマー湯",
     "tier": "3",
     "note": "",
     "area": "",
@@ -413,7 +461,10 @@
     "officialUrl": "https://thermae-yu.jp/",
     "siteStatus": "verified",
     "closed": false,
-    "siteNote": ""
+    "siteNote": "",
+    "originalName": "テルマー湯",
+    "nameSource": "https://thermae-yu.jp/",
+    "nameReview": "official-site"
   },
   {
     "id": "sauna-3-03",
@@ -547,7 +598,7 @@
   },
   {
     "id": "sauna-3-13",
-    "name": "スカイスパYokohama",
+    "name": "スカイスパYOKOHAMA",
     "tier": "3",
     "note": "夜景",
     "area": "",
@@ -556,7 +607,10 @@
     "officialUrl": "https://www.skyspa.co.jp/",
     "siteStatus": "verified",
     "closed": false,
-    "siteNote": ""
+    "siteNote": "",
+    "originalName": "スカイスパYokohama",
+    "nameSource": "https://www.skyspa.co.jp/",
+    "nameReview": "official-site"
   },
   {
     "id": "sauna-3-14",
@@ -573,7 +627,7 @@
   },
   {
     "id": "sauna-3-15",
-    "name": "cocofuroかが浴場",
+    "name": "COCOFURO かが浴場",
     "tier": "3",
     "note": "",
     "area": "",
@@ -582,11 +636,14 @@
     "officialUrl": "https://cocofuro.com/kagayokujo/",
     "siteStatus": "verified",
     "closed": false,
-    "siteNote": ""
+    "siteNote": "",
+    "originalName": "cocofuroかが浴場",
+    "nameSource": "https://cocofuro.com/kagayokujo/",
+    "nameReview": "official-site"
   },
   {
     "id": "sauna-3-16",
-    "name": "サウナタロトヤマ",
+    "name": "Sauna Talo Toyama",
     "tier": "3",
     "note": "",
     "area": "",
@@ -595,11 +652,14 @@
     "officialUrl": "https://sauna-talo.jp/",
     "siteStatus": "verified",
     "closed": false,
-    "siteNote": ""
+    "siteNote": "",
+    "originalName": "サウナタロトヤマ",
+    "nameSource": "https://sauna-talo.jp/",
+    "nameReview": "official-site"
   },
   {
     "id": "sauna-3-17",
-    "name": "湯屋furobakka",
+    "name": "湯屋 FUROBAKKA",
     "tier": "3",
     "note": "",
     "area": "",
@@ -608,7 +668,10 @@
     "officialUrl": "https://furobakka.com/",
     "siteStatus": "verified",
     "closed": false,
-    "siteNote": ""
+    "siteNote": "",
+    "originalName": "湯屋furobakka",
+    "nameSource": "https://furobakka.com/",
+    "nameReview": "official-site"
   },
   {
     "id": "sauna-3-18",
@@ -625,7 +688,7 @@
   },
   {
     "id": "sauna-3-19",
-    "name": "Rooftop",
+    "name": "ROOFTOP",
     "tier": "3",
     "note": "1人限定かな、でも椅子が最強",
     "area": "",
@@ -634,7 +697,10 @@
     "officialUrl": "https://rooftopsauna.jp/",
     "siteStatus": "verified",
     "closed": false,
-    "siteNote": ""
+    "siteNote": "",
+    "originalName": "Rooftop",
+    "nameSource": "https://rooftopsauna.jp/",
+    "nameReview": "official-site"
   },
   {
     "id": "sauna-3-20",
@@ -690,7 +756,7 @@
   },
   {
     "id": "sauna-3-24",
-    "name": "江戸遊",
+    "name": "両国湯屋 江戸遊",
     "tier": "3",
     "note": "",
     "area": "",
@@ -699,11 +765,14 @@
     "officialUrl": "https://www.edoyu.com/ryougoku/",
     "siteStatus": "verified",
     "closed": false,
-    "siteNote": ""
+    "siteNote": "",
+    "originalName": "江戸遊",
+    "nameSource": "https://www.edoyu.com/ryougoku/",
+    "nameReview": "official-site"
   },
   {
     "id": "sauna-3-25",
-    "name": "saunahouse",
+    "name": "SAUNA HOUSE",
     "tier": "3",
     "note": "",
     "area": "",
@@ -712,7 +781,10 @@
     "officialUrl": "https://nus-saunahouse.com/",
     "siteStatus": "verified",
     "closed": false,
-    "siteNote": ""
+    "siteNote": "",
+    "originalName": "saunahouse",
+    "nameSource": "https://nus-saunahouse.com/",
+    "nameReview": "official-site"
   },
   {
     "id": "sauna-3-26",
@@ -742,7 +814,7 @@
   },
   {
     "id": "sauna-3-28",
-    "name": "花景の湯(かけいのゆ)",
+    "name": "花景の湯",
     "tier": "3",
     "note": "",
     "area": "",
@@ -751,7 +823,10 @@
     "officialUrl": "https://www.yomiuriland.com/hanabiyori/kakeinoyu/",
     "siteStatus": "verified",
     "closed": false,
-    "siteNote": ""
+    "siteNote": "",
+    "originalName": "花景の湯(かけいのゆ)",
+    "nameSource": "https://www.yomiuriland.com/hanabiyori/kakeinoyu/",
+    "nameReview": "official-site"
   },
   {
     "id": "sauna-3-29",
@@ -781,7 +856,7 @@
   },
   {
     "id": "sauna-4-01",
-    "name": "スプメッツアおおたか",
+    "name": "スパメッツァおおたか 竜泉寺の湯",
     "tier": "4",
     "note": "",
     "area": "",
@@ -790,11 +865,14 @@
     "officialUrl": "https://www.ryusenjinoyu.com/spametsaotaka/",
     "siteStatus": "verified",
     "closed": false,
-    "siteNote": ""
+    "siteNote": "",
+    "originalName": "スプメッツアおおたか",
+    "nameSource": "https://www.ryusenjinoyu.com/spametsaotaka/",
+    "nameReview": "official-site"
   },
   {
     "id": "sauna-4-02",
-    "name": "ラクーア",
+    "name": "東京ドーム天然温泉 Spa LaQua",
     "tier": "4",
     "note": "",
     "area": "",
@@ -803,11 +881,14 @@
     "officialUrl": "https://www.laqua.jp/spa/",
     "siteStatus": "verified",
     "closed": false,
-    "siteNote": ""
+    "siteNote": "",
+    "originalName": "ラクーア",
+    "nameSource": "https://www.laqua.jp/spa/",
+    "nameReview": "official-site"
   },
   {
     "id": "sauna-4-03",
-    "name": "多摩境天然温泉　森乃彩",
+    "name": "多摩境天然温泉 森乃彩",
     "tier": "4",
     "note": "",
     "area": "",
@@ -816,7 +897,10 @@
     "officialUrl": "https://morinoirodori.com/",
     "siteStatus": "verified",
     "closed": false,
-    "siteNote": ""
+    "siteNote": "",
+    "originalName": "多摩境天然温泉　森乃彩",
+    "nameSource": "https://morinoirodori.com/",
+    "nameReview": "official-site"
   },
   {
     "id": "sauna-4-04",
@@ -833,7 +917,7 @@
   },
   {
     "id": "sauna-4-05",
-    "name": "なごみの湯",
+    "name": "東京荻窪天然温泉 なごみの湯",
     "tier": "4",
     "note": "",
     "area": "",
@@ -842,7 +926,10 @@
     "officialUrl": "https://www.nagomino-yu.com/",
     "siteStatus": "verified",
     "closed": false,
-    "siteNote": ""
+    "siteNote": "",
+    "originalName": "なごみの湯",
+    "nameSource": "https://www.nagomino-yu.com/",
+    "nameReview": "official-site"
   },
   {
     "id": "sauna-4-06",
@@ -885,7 +972,7 @@
   },
   {
     "id": "sauna-4-09",
-    "name": "FLOBA(三鷹)",
+    "name": "FLOBA（三鷹）",
     "tier": "4",
     "note": "",
     "area": "",
@@ -894,11 +981,14 @@
     "officialUrl": "https://floba-mitaka.jp/",
     "siteStatus": "verified",
     "closed": false,
-    "siteNote": ""
+    "siteNote": "",
+    "originalName": "FLOBA(三鷹)",
+    "nameSource": "https://floba-mitaka.jp/",
+    "nameReview": "official-site"
   },
   {
     "id": "sauna-4-10",
-    "name": "豊島園　庭の湯",
+    "name": "バーデと天然温泉 豊島園 庭の湯",
     "tier": "4",
     "note": "",
     "area": "",
@@ -907,7 +997,10 @@
     "officialUrl": "https://www.seibu-leisure.co.jp/niwanoyu/index.html",
     "siteStatus": "verified",
     "closed": false,
-    "siteNote": ""
+    "siteNote": "",
+    "originalName": "豊島園　庭の湯",
+    "nameSource": "https://www.seibu-leisure.co.jp/niwanoyu/index.html",
+    "nameReview": "official-site"
   },
   {
     "id": "sauna-4-11",
@@ -950,7 +1043,7 @@
   },
   {
     "id": "sauna-4-14",
-    "name": "らくスパ Station 武蔵小金井",
+    "name": "RAKU SPA Station 武蔵小金井",
     "tier": "4",
     "note": "",
     "area": "",
@@ -959,7 +1052,10 @@
     "officialUrl": "https://rakuspa.com/musashi/",
     "siteStatus": "verified",
     "closed": false,
-    "siteNote": ""
+    "siteNote": "",
+    "originalName": "らくスパ Station 武蔵小金井",
+    "nameSource": "https://rakuspa.com/musashi/",
+    "nameReview": "official-site"
   },
   {
     "id": "sauna-4-15",
@@ -1015,7 +1111,7 @@
   },
   {
     "id": "sauna-5-03",
-    "name": "スーパー銭湯湯処葛西",
+    "name": "スーパー銭湯 湯処葛西",
     "tier": "5",
     "note": "",
     "area": "",
@@ -1024,7 +1120,10 @@
     "officialUrl": "https://www.yudokoro-kasai.com/",
     "siteStatus": "verified",
     "closed": false,
-    "siteNote": ""
+    "siteNote": "",
+    "originalName": "スーパー銭湯湯処葛西",
+    "nameSource": "https://www.yudokoro-kasai.com/",
+    "nameReview": "official-site"
   },
   {
     "id": "sauna-5-04",
@@ -1041,7 +1140,7 @@
   },
   {
     "id": "sauna-5-05",
-    "name": "キャナルリゾート",
+    "name": "キャナル・リゾート",
     "tier": "5",
     "note": "うるさすぎ",
     "area": "",
@@ -1050,11 +1149,14 @@
     "officialUrl": "https://canalresort.jp/",
     "siteStatus": "verified",
     "closed": false,
-    "siteNote": ""
+    "siteNote": "",
+    "originalName": "キャナルリゾート",
+    "nameSource": "https://canalresort.jp/",
+    "nameReview": "official-site"
   },
   {
     "id": "sauna-5-06",
-    "name": "こもれび",
+    "name": "佐賀の湯処 KOMOREBI",
     "tier": "5",
     "note": "",
     "area": "",
@@ -1063,6 +1165,9 @@
     "officialUrl": "https://www.komorebi.spa/",
     "siteStatus": "verified",
     "closed": false,
-    "siteNote": "佐賀の湯処 こもれび。2026-10-10 利用者が施設特定を確認。"
+    "siteNote": "佐賀の湯処 こもれび。2026-10-10 利用者が施設特定を確認。",
+    "originalName": "こもれび",
+    "nameSource": "https://www.komorebi.spa/",
+    "nameReview": "official-site"
   }
 ]
