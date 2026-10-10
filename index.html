@@ -25,7 +25,7 @@
 @media(max-width:760px){.container{width:calc(100% - 36px)}.nav{min-height:72px}.nav-right>a{display:none}.hero{display:block;min-height:0;padding:65px 0 55px}.hero h1{font-size:clamp(67px,13vw,99px)}.hero-figure{margin:38px auto 0;height:235px;width:min(320px,100%);aspect-ratio:auto;border-radius:140px 140px 4px 4px}.figure-text{font-size:92px}.stats-line{grid-template-columns:repeat(3,minmax(0,1fr))}.stat{display:block;padding:18px 11px!important}.stat b{display:block;font-size:28px}.stat small{font-size:9px}.directory{padding:58px 0}.section-top{display:block}.section-top .sub{text-align:left;margin:13px 0 0}.filters{position:static}.tier-section.feature .cards,.cards{grid-template-columns:repeat(2,minmax(0,1fr))}.hall-sec .cards{grid-template-columns:repeat(2,minmax(0,1fr))!important}.tier-section.feature .sauna-card{min-height:215px;padding:22px}.tier-section.feature .sauna-card h4{font-size:20px}.note-grid{grid-template-columns:1fr;gap:12px}.footer-row{display:block}}
 @media(max-width:500px){.brand{font-size:15px}.brand-mark{width:34px;height:34px}.border-button{padding:9px;font-size:10px}.hero h1{font-size:62px}.hero h2{font-size:18px}.hero p{font-size:12px}.hero-figure{display:none}.section-top h2{font-size:36px}.tier-nav{gap:5px}.tier-filter{font-size:10px;padding:7px 9px}.cards,.tier-section.feature .cards,.hall-sec .cards{grid-template-columns:1fr!important}.tier-section.feature .sauna-card{min-height:180px}.hall-sec .sauna-card{min-height:148px}.hall-sec .sauna-card h4{margin:9px 0;font-size:21px}.tier-mark{width:52px;height:52px;font-size:19px}.tier-titleline h3{font-size:21px}.tier-desc{font-size:11px}.sauna-card{min-height:126px}.helper-line{display:block}.helper-line span{display:block;margin-bottom:6px}.edit-cols{grid-template-columns:1fr}.modal{padding:22px}.footer h2{font-size:27px}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.sauna-card{transition:none}}
-.card-links{margin-top:auto;display:flex;flex-wrap:wrap;gap:7px;align-items:center;padding-top:15px}.official-link{font-size:11px;color:#214b37;font-weight:800;border:1px solid #bdd0bf;border-radius:5px;padding:7px 10px;background:#e9f2e9;position:relative;z-index:1}.official-link:hover{background:#d8e8d8}.site-review{font-size:10px;font-weight:600;color:#a06628}.site-closed{font-size:10px;color:#a23b30;font-weight:800}.card-edit{margin-top:10px}.photo-attribution{font-size:10px;line-height:1.5;margin:-8px 0 10px}.photo-attribution a{color:#789080;text-decoration:underline;text-underline-offset:2px}.card-picture.image-failed{display:flex;align-items:center;justify-content:center}.card-picture.image-failed::before{content:"写真を読み込めませんでした";font-size:10px;color:#c9dec8;padding:12px}.card-picture.image-failed img{display:none}</style>
+.card-links{margin-top:auto;display:flex;flex-wrap:wrap;gap:7px;align-items:center;padding-top:15px}.official-link{font-size:11px;color:#214b37;font-weight:800;border:1px solid #bdd0bf;border-radius:5px;padding:7px 10px;background:#e9f2e9;position:relative;z-index:1}.official-link:hover{background:#d8e8d8}.site-review{font-size:10px;font-weight:600;color:#a06628}.site-closed{font-size:10px;color:#a23b30;font-weight:800}.card-edit{margin-top:10px}.photo-attribution{font-size:10px;line-height:1.5;margin:-8px 0 10px}.photo-attribution a{color:#789080;text-decoration:underline;text-underline-offset:2px}.card-picture.image-failed{display:flex;align-items:center;justify-content:center}.card-picture.image-failed::before{content:"写真を読み込めませんでした";font-size:10px;color:#c9dec8;padding:12px}.card-picture.image-failed img{display:none}.photo-health-panel{border:1px solid #d8e2d8;background:#fff;border-radius:12px;padding:18px;margin:0 0 28px;font-size:12px;line-height:1.8;color:#46594a}.photo-health-panel[hidden]{display:none}.photo-health-panel>strong{font-size:14px;color:#1a3222}.photo-health-panel p{margin:8px 0}.photo-health-panel ul{margin:8px 0 14px;padding-left:22px}.photo-health-panel li{margin:6px 0}.photo-health-panel li a{color:#276042;text-decoration:underline}.photo-health-panel .tool{margin:7px 0 0}.photo-health-panel .status-warning{color:#9c512e;font-weight:700}</style>
 </head>
 <body>
 <div class="top" id="top"><div class="container">
@@ -36,7 +36,14 @@
 <section class="directory container" id="catalog">
  <div class="section-top"><div><div class="overline">MY SAUNA TIER LIST</div><h2>THE COLLECTION<i>.</i></h2></div><div class="sub">実際の好みを反映した8カテゴリー。<br>同じTier内は順位ではなく、登録時の掲載順です。</div></div>
  <div class="filters"><div class="filterbar"><div class="tier-nav" id="tier-filters" aria-label="Tierで絞り込み"></div><label class="search"><svg viewBox="0 0 24 24" stroke-width="2" aria-hidden="true"><circle cx="10" cy="10" r="6"/><path d="m15 15 6 6"/></svg><input type="search" id="search" placeholder="施設名・コメントで検索" aria-label="施設名やコメントで検索"></label></div></div>
- <div class="helper-line"><span id="match-count" aria-live="polite">82施設を表示中</span><div class="tools"><button class="tool" id="export-html" type="button">↗ 公開用HTMLを保存</button><button class="tool" id="export-json" type="button">↓ データをバックアップ</button><button class="tool" id="import-json" type="button">↑ データを復元</button><input type="file" id="import-file" accept=".json,application/json" hidden><button class="tool" data-add type="button">＋ 施設を追加</button></div></div>
+ <div class="helper-line"><span id="match-count" aria-live="polite">82施設を表示中</span><div class="tools"><button class="tool" id="photo-health-start" type="button">◎ 写真の表示をチェック</button><button class="tool" id="export-html" type="button">↗ 公開用HTMLを保存</button><button class="tool" id="export-json" type="button">↓ データをバックアップ</button><button class="tool" id="import-json" type="button">↑ データを復元</button><input type="file" id="import-file" accept=".json,application/json" hidden><button class="tool" data-add type="button">＋ 施設を追加</button></div></div>
+ <div id="photo-health-panel" class="photo-health-panel" hidden aria-live="polite">
+  <strong>実写真の表示チェック</strong>
+  <p>この端末から掲載元の画像URLへ直接アクセスして検査します。ブラウザの通信環境によって結果が変わり、写真の転載許可を示すものではありません。</p>
+  <p id="photo-health-progress">未実施</p>
+  <div id="photo-health-problems"></div>
+  <button class="tool" id="photo-health-copy" type="button" hidden>↓ 問題のある画像の一覧をコピー</button>
+ </div>
  <div id="tier-content" aria-live="polite"></div>
 </section>
 <section class="note" id="philosophy"><div class="container note-grid"><div><div class="overline">HOW I RANK SAUNAS</div><h2>MY STANDARD<span style="color:#b9986b">.</span></h2><p>Tierは温度や設備の点数を機械的に合計したものではありません。行きやすさ、利用人数、食事、施設ごとの強み、そして「また行きたいか」を総合した個人の主観です。</p><p>殿堂入りはTier 1のさらに上という意味ではなく、特別枠として独立させています。</p></div><div class="note-list"><div class="note-box"><strong>01 — 総合的な環境</strong><p>設備だけでなく、サウナ体験全体としてどれだけ満足できるか。</p></div><div class="note-box"><strong>02 — シチュエーション</strong><p>ひとりで行くか、誰かと行くか。サ飯、イベント、休憩環境も判断材料。</p></div><div class="note-box"><strong>03 — 距離と再訪性</strong><p>施設自体の実力が高くても、通いやすさはTierに影響する。</p></div></div></div></section>
@@ -109,6 +116,58 @@ $('#export-html').addEventListener('click',exportHTML);$('#footer-export').addEv
 $('#export-json').addEventListener('click',()=>download('my-sauna-atlas-backup.json','application/json;charset=utf-8',JSON.stringify({version:1,exportedAt:new Date().toISOString(),entries},null,2)));
 $('#import-json').addEventListener('click',()=>$('#import-file').click());
 $('#import-file').addEventListener('change',async ev=>{const file=ev.target.files[0];if(!file)return;try{const parsed=JSON.parse(await file.text());const arr=Array.isArray(parsed)?parsed:parsed.entries;if(!Array.isArray(arr)||!arr.every(x=>x&&typeof x.id==='string'&&typeof x.name==='string'&&validTier(x.tier)))throw Error('format');if(!confirm(`${arr.length}施設のデータで現在の内容を置き換えますか？`))return;entries=arr;save();filter='all';query='';$('#search').value='';render();}catch(e){alert('読み込めるサウナデータのJSONではありません。');}finally{ev.target.value='';}});
+let photoHealthReport=[];
+function photoProbe(url){
+ return new Promise(resolve=>{
+  const photo=new Image();
+  let done=false;
+  const finish=status=>{if(done)return;done=true;clearTimeout(timer);photo.onload=null;photo.onerror=null;resolve(status);};
+  const timer=setTimeout(()=>finish('timeout'),15000);
+  photo.onload=()=>finish(photo.naturalWidth>0?'ok':'error');
+  photo.onerror=()=>finish('error');
+  photo.referrerPolicy='no-referrer';
+  photo.src=url;
+ });
+}
+$('#photo-health-start').addEventListener('click',async()=>{
+ const matching=entries.filter(e=>validTier(e.tier)&&(filter==='all'||e.tier===filter)&&[e.name,e.note,e.area,e.tier].join(' ').toLocaleLowerCase('ja').includes(query));
+ if(!matching.length)return;
+ if(!confirm('表示中の'+matching.length+'施設の画像を検査します。画像を実際に取得するため、特にモバイル通信では大きな通信量になる場合があります。続けますか？'))return;
+ const start=$('#photo-health-start');const panel=$('#photo-health-panel');const progress=$('#photo-health-progress');
+ const problems=$('#photo-health-problems');const copy=$('#photo-health-copy');
+ panel.hidden=false;start.disabled=true;copy.hidden=true;problems.innerHTML='';photoHealthReport=[];
+ let index=0;let completed=0;let success=0;
+ progress.textContent='チェック中：0 / '+matching.length+'施設';
+ const worker=async()=>{
+  while(index<matching.length){
+   const e=matching[index++];
+   const url=imageURL(e.photo);
+   const status=url?await photoProbe(url):'missing';
+   photoHealthReport.push({name:e.name,tier:e.tier,status,url:url||'',source:e.photoSource||'',officialUrl:e.officialUrl||''});
+   completed++;if(status==='ok')success++;
+   progress.textContent='チェック中：'+completed+' / '+matching.length+'施設（表示成功 '+success+'）';
+  }
+ };
+ try{await Promise.all([worker(),worker(),worker(),worker()]);}finally{start.disabled=false;}
+ const errors=photoHealthReport.filter(x=>x.status==='error'||x.status==='missing');
+ const unclear=photoHealthReport.filter(x=>x.status==='timeout');
+ progress.textContent='検査結果：成功 '+success+'件 / 読み込み失敗 '+errors.length+'件 / 時間内に確認できず '+unclear.length+'件（全'+matching.length+'件）';
+ const issues=photoHealthReport.filter(x=>x.status!=='ok');
+ if(!issues.length){problems.textContent='この端末では、選択した画像の読み込みにすべて成功しました。';}
+ else{
+  const htmlList=issues.map(x=>'<li><strong>'+escapeHTML(x.name)+'</strong>：'+(x.status==='timeout'?'15秒以内に確認できず':'読み込み失敗')+'　<a href="'+escapeHTML(imageURL(x.source)||imageURL(x.officialUrl)||'#')+'" target="_blank" rel="noopener noreferrer">掲載元を開く ↗</a></li>').join('');
+  problems.innerHTML='<p class="status-warning">未確認・表示に問題のある施設（掲載元から画像を差し替える候補）</p><ul>'+htmlList+'</ul>';
+ }
+ copy.hidden=false;
+});
+$('#photo-health-copy').addEventListener('click',async()=>{
+ if(!photoHealthReport.length)return;
+ const issues=photoHealthReport.filter(x=>x.status!=='ok');
+ const textReport=['MY SAUNA ATLAS 写真表示チェック',new Date().toLocaleString('ja-JP'),'成功 '+photoHealthReport.filter(x=>x.status==='ok').length+'件 / 失敗 '+photoHealthReport.filter(x=>x.status==='error'||x.status==='missing').length+'件 / タイムアウト '+photoHealthReport.filter(x=>x.status==='timeout').length+'件',...issues.map(x=>x.name+' | '+x.status+' | '+x.url+' | 出典 '+x.source)].join('\n');
+ try{await navigator.clipboard.writeText(textReport);alert('チェック結果をコピーしました。こちらのチャットに貼り付けると、問題のある画像を修正できます。');}
+ catch(err){window.prompt('下記の結果をコピーしてください',textReport);}
+});
+document.addEventListener('load',ev=>{if(ev.target?.matches?.('img.sauna-real-photo')){ev.target.closest('.card-picture')?.classList.remove('image-failed');}},true);
 document.addEventListener('error',ev=>{if(ev.target?.matches?.('img.sauna-real-photo')){ev.target.closest('.card-picture')?.classList.add('image-failed');}},true);
 render();
 })();
