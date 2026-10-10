@@ -205,12 +205,21 @@
     "tier": "1.5",
     "note": "",
     "area": "",
-    "photo": "",
+    "photo": "https://img.furusato-tax.jp/img/x/stg/product/detail/details/20200317/spdd_0e1f7987de4cf43a636baeaf1a0a8b48b7944c07.jpg",
     "ordinal": 2,
     "officialUrl": "https://www.ogaki-sauna.com/",
     "siteStatus": "verified",
     "closed": false,
-    "siteNote": ""
+    "siteNote": "",
+    "originalName": "大垣サウナ",
+    "nameSource": "https://www.ogaki-sauna.com/",
+    "nameReview": "official-site",
+    "photoSource": "https://www.furusato-tax.jp/product/detail/21202/4804832",
+    "photoCredit": "ふるさとチョイス（大垣サウナ返礼品画像）",
+    "photoSubject": "サウナ室",
+    "photoType": "editorial-photo",
+    "photoUsageStatus": "実施設の取材記事または公式ページに掲載された写真の外部画像URLを参照。画像転載・二次利用の許諾は未確認。",
+    "photoSourceReviewedAt": "2026-10-10"
   },
   {
     "id": "sauna-2-01",
@@ -484,12 +493,21 @@
     "tier": "2.5",
     "note": "",
     "area": "",
-    "photo": "",
+    "photo": "https://news.walkerplus.com/article/1134468/11709556_615.jpg",
     "ordinal": 4,
     "officialUrl": "https://www.wellbe.co.jp/sakae/",
     "siteStatus": "verified",
     "closed": false,
-    "siteNote": ""
+    "siteNote": "",
+    "originalName": "ウェルビー栄",
+    "nameSource": "https://www.wellbe.co.jp/sakae/",
+    "nameReview": "official-site",
+    "photoSource": "https://www.walkerplus.com/article/1134468/image11709556.html",
+    "photoCredit": "ウォーカープラス（ウェルビー栄の施設取材）",
+    "photoSubject": "ウィスキングハウス",
+    "photoType": "editorial-photo",
+    "photoUsageStatus": "実施設の取材記事または公式ページに掲載された写真の外部画像URLを参照。画像転載・二次利用の許諾は未確認。",
+    "photoSourceReviewedAt": "2026-10-10"
   },
   {
     "id": "sauna-2-5-06",
@@ -502,7 +520,10 @@
     "officialUrl": "https://tatsukisauna.com/",
     "siteStatus": "verified",
     "closed": false,
-    "siteNote": ""
+    "siteNote": "",
+    "originalName": "龍城さうな",
+    "nameSource": "https://tatsukisauna.com/",
+    "nameReview": "official-site"
   },
   {
     "id": "sauna-2-5-07",
@@ -510,12 +531,21 @@
     "tier": "2.5",
     "note": "",
     "area": "",
-    "photo": "",
+    "photo": "https://arne.media/uploads/2025/12/d4f22e5ab6a1fe99df51bf60b120320f-2048x1365.jpg",
     "ordinal": 6,
     "officialUrl": "https://www.yulax.info/",
     "siteStatus": "verified",
     "closed": false,
-    "siteNote": ""
+    "siteNote": "",
+    "originalName": "湯らっくす",
+    "nameSource": "https://www.yulax.info/",
+    "nameReview": "official-site",
+    "photoSource": "https://arne.media/go-out/572113/",
+    "photoCredit": "ARNE（湯らっくす取材記事）",
+    "photoSubject": "MAD MAXの水風呂",
+    "photoType": "editorial-photo",
+    "photoUsageStatus": "実施設の取材記事または公式ページに掲載された写真の外部画像URLを参照。画像転載・二次利用の許諾は未確認。",
+    "photoSourceReviewedAt": "2026-10-10"
   },
   {
     "id": "sauna-2-5-08",
@@ -523,12 +553,21 @@
     "tier": "2.5",
     "note": "",
     "area": "",
-    "photo": "",
+    "photo": "https://hips.hearstapps.com/hmg-prod/images/fg2211-yadol-01-02-2-1200-0-72-80-1664347763.jpg",
     "ordinal": 7,
     "officialUrl": "https://www.snowpeak.co.jp/fieldsuitespa/hq/",
     "siteStatus": "verified",
     "closed": false,
-    "siteNote": ""
+    "siteNote": "",
+    "originalName": "Snow Peak FIELD SUITE SPA HEADQUARTERS",
+    "nameSource": "https://www.snowpeak.co.jp/fieldsuitespa/hq/",
+    "nameReview": "official-site",
+    "photoSource": "https://www.fujingaho.jp/travel/hotel/g41418056/yado-snow-peak-field-suite-spa-headquarters-221008/",
+    "photoCredit": "婦人画報（Snow Peak施設紹介）",
+    "photoSubject": "山を望むサウナ室",
+    "photoType": "editorial-photo",
+    "photoUsageStatus": "実施設の取材記事または公式ページに掲載された写真の外部画像URLを参照。画像転載・二次利用の許諾は未確認。",
+    "photoSourceReviewedAt": "2026-10-10"
   },
   {
     "id": "sauna-3-01",
@@ -536,12 +575,21 @@
     "tier": "3",
     "note": "",
     "area": "",
-    "photo": "",
+    "photo": "https://assets.st-note.com/production/uploads/images/98496060/picture_pc_aff5f121ab141b8fa98c0220d7432733.png?width=1200",
     "ordinal": 0,
     "officialUrl": "https://www.matsumoto-yu.com/",
     "siteStatus": "verified",
     "closed": false,
-    "siteNote": ""
+    "siteNote": "",
+    "originalName": "松本湯",
+    "nameSource": "https://www.matsumoto-yu.com/",
+    "nameReview": "official-site",
+    "photoSource": "https://note.com/nature_sauna/n/n4b7535e90944",
+    "photoCredit": "Nature & Sauna（松本湯施設紹介）",
+    "photoSubject": "松本湯のサウナ室",
+    "photoType": "editorial-photo",
+    "photoUsageStatus": "実施設の取材記事または公式ページに掲載された写真の外部画像URLを参照。画像転載・二次利用の許諾は未確認。",
+    "photoSourceReviewedAt": "2026-10-10"
   },
   {
     "id": "sauna-3-02",
@@ -561,16 +609,25 @@
   },
   {
     "id": "sauna-3-03",
-    "name": "黄金湯",
+    "name": "黄金湯 東京店",
     "tier": "3",
     "note": "",
     "area": "",
-    "photo": "",
+    "photo": "https://d6pmnsnqga8dz.cloudfront.net/wp/wp-content/uploads/2020/09/kgny4_9DG.jpg",
     "ordinal": 2,
     "officialUrl": "https://koganeyu.com/",
     "siteStatus": "verified",
     "closed": false,
-    "siteNote": ""
+    "siteNote": "",
+    "originalName": "黄金湯",
+    "nameSource": "https://koganeyu.com/",
+    "nameReview": "official-site",
+    "photoSource": "https://architecturephoto.net/100748/",
+    "photoCredit": "architecturephoto.net（黄金湯 東京店の建築写真）",
+    "photoSubject": "サウナ室",
+    "photoType": "editorial-photo",
+    "photoUsageStatus": "実施設の取材記事または公式ページに掲載された写真の外部画像URLを参照。画像転載・二次利用の許諾は未確認。",
+    "photoSourceReviewedAt": "2026-10-10"
   },
   {
     "id": "sauna-3-04",
@@ -578,12 +635,21 @@
     "tier": "3",
     "note": "",
     "area": "",
-    "photo": "",
+    "photo": "https://cdn-ak.f.st-hatena.com/images/fotolife/t/teraneko0213/20210917/20210917203909.jpg",
     "ordinal": 3,
     "officialUrl": "https://kairyou-yu.com/",
     "siteStatus": "verified",
     "closed": false,
-    "siteNote": ""
+    "siteNote": "",
+    "originalName": "改良湯",
+    "nameSource": "https://kairyou-yu.com/",
+    "nameReview": "official-site",
+    "photoSource": "https://saunadiary.hatenablog.com/entry/2021/09/17/211423",
+    "photoCredit": "週末、サウナ。（改良湯訪問記事）",
+    "photoSubject": "鯨の壁画がある外観",
+    "photoType": "editorial-photo",
+    "photoUsageStatus": "実施設の取材記事または公式ページに掲載された写真の外部画像URLを参照。画像転載・二次利用の許諾は未確認。",
+    "photoSourceReviewedAt": "2026-10-10"
   },
   {
     "id": "sauna-3-05",
@@ -591,12 +657,21 @@
     "tier": "3",
     "note": "",
     "area": "",
-    "photo": "",
+    "photo": "https://kimoty.com/wp-content/uploads/2023/06/LINE_ALBUM_230629_27.jpg",
     "ordinal": 4,
     "officialUrl": "https://www.aqua-higashinakano1010.com/",
     "siteStatus": "verified",
     "closed": false,
-    "siteNote": ""
+    "siteNote": "",
+    "originalName": "アクア東中野",
+    "nameSource": "https://www.aqua-higashinakano1010.com/",
+    "nameReview": "official-site",
+    "photoSource": "https://kimoty.com/contents/sisu/kanto/tokyo/aquahigashinakano/",
+    "photoCredit": "サウナの専門商社（アクア東中野紹介）",
+    "photoSubject": "サウナ室",
+    "photoType": "editorial-photo",
+    "photoUsageStatus": "実施設の取材記事または公式ページに掲載された写真の外部画像URLを参照。画像転載・二次利用の許諾は未確認。",
+    "photoSourceReviewedAt": "2026-10-10"
   },
   {
     "id": "sauna-3-06",
@@ -663,7 +738,10 @@
     "officialUrl": "https://www.wellbe.co.jp/fukuoka/",
     "siteStatus": "verified",
     "closed": false,
-    "siteNote": ""
+    "siteNote": "",
+    "originalName": "ウェルビー福岡",
+    "nameSource": "https://www.wellbe.co.jp/fukuoka/",
+    "nameReview": "official-site"
   },
   {
     "id": "sauna-3-10",
@@ -706,16 +784,25 @@
   },
   {
     "id": "sauna-3-12",
-    "name": "朝日温泉ゆいる",
+    "name": "朝日湯源泉 ゆいる",
     "tier": "3",
     "note": "",
     "area": "",
-    "photo": "",
+    "photo": "https://images.microcms-assets.io/assets/6e4c33ab994e413a8b9082545bbcda3e/1e9b27d883124710a96e08037a620d02/tmp-index_mizu1-768x511.jpg.webp?fm=webp&q=80",
     "ordinal": 11,
     "officialUrl": "https://yuiru.net/",
     "siteStatus": "verified",
     "closed": false,
-    "siteNote": ""
+    "siteNote": "",
+    "originalName": "朝日温泉ゆいる",
+    "nameSource": "https://yuiru.net/",
+    "nameReview": "official-site",
+    "photoSource": "https://chillplus.jp/special-contents/yuiru",
+    "photoCredit": "Chill+（ゆいるの取材記事）",
+    "photoSubject": "深い水風呂",
+    "photoType": "editorial-photo",
+    "photoUsageStatus": "実施設の取材記事または公式ページに掲載された写真の外部画像URLを参照。画像転載・二次利用の許諾は未確認。",
+    "photoSourceReviewedAt": "2026-10-10"
   },
   {
     "id": "sauna-3-13",
@@ -806,16 +893,25 @@
   },
   {
     "id": "sauna-3-18",
-    "name": "アスティル",
+    "name": "オアシスサウナ アスティル",
     "tier": "3",
     "note": "",
     "area": "",
-    "photo": "",
+    "photo": "https://www.oasissauna.jp/img/20210107201032.jpg",
     "ordinal": 17,
     "officialUrl": "https://www.oasissauna.jp/",
     "siteStatus": "verified",
     "closed": false,
-    "siteNote": ""
+    "siteNote": "",
+    "originalName": "アスティル",
+    "nameSource": "https://www.oasissauna.jp/",
+    "nameReview": "official-site",
+    "photoSource": "https://www.oasissauna.jp/smart/",
+    "photoCredit": "オアシスサウナ アスティル公式サイト",
+    "photoSubject": "リニューアル時のサウナ室",
+    "photoType": "official-site-image",
+    "photoUsageStatus": "実施設の取材記事または公式ページに掲載された写真の外部画像URLを参照。画像転載・二次利用の許諾は未確認。",
+    "photoSourceReviewedAt": "2026-10-10"
   },
   {
     "id": "sauna-3-19",
@@ -835,7 +931,7 @@
   },
   {
     "id": "sauna-3-20",
-    "name": "サウナ道場",
+    "name": "てっぺんサウナ道場",
     "tier": "3",
     "note": "",
     "area": "",
@@ -844,7 +940,10 @@
     "officialUrl": "https://teppen-saunadojo.com/",
     "siteStatus": "verified",
     "closed": false,
-    "siteNote": ""
+    "siteNote": "",
+    "originalName": "サウナ道場",
+    "nameSource": "https://teppen-saunadojo.com/about",
+    "nameReview": "official-site"
   },
   {
     "id": "sauna-3-21",
@@ -873,11 +972,14 @@
     "officialUrl": "https://monster-ws.jp/",
     "siteStatus": "verified",
     "closed": false,
-    "siteNote": ""
+    "siteNote": "",
+    "originalName": "MONSTER WORK & SAUNA",
+    "nameSource": "https://monster-ws.jp/",
+    "nameReview": "official-site"
   },
   {
     "id": "sauna-3-23",
-    "name": "ロスコ",
+    "name": "カプセル＆サウナ ロスコ",
     "tier": "3",
     "note": "",
     "area": "",
@@ -886,7 +988,10 @@
     "officialUrl": "https://www.rosco.tokyo/",
     "siteStatus": "verified",
     "closed": false,
-    "siteNote": ""
+    "siteNote": "",
+    "originalName": "ロスコ",
+    "nameSource": "https://www.rosco.tokyo/",
+    "nameReview": "official-site"
   },
   {
     "id": "sauna-3-24",
@@ -945,7 +1050,7 @@
   },
   {
     "id": "sauna-3-27",
-    "name": "ガレーラ・サウナ立川",
+    "name": "GALERA SAUNA TACHIKAWA",
     "tier": "3",
     "note": "",
     "area": "",
@@ -954,7 +1059,10 @@
     "officialUrl": "https://galera-sauna.tokyo/",
     "siteStatus": "verified",
     "closed": false,
-    "siteNote": ""
+    "siteNote": "",
+    "originalName": "ガレーラ・サウナ立川",
+    "nameSource": "https://galera-sauna.tokyo/",
+    "nameReview": "official-site"
   },
   {
     "id": "sauna-3-28",
@@ -983,7 +1091,10 @@
     "officialUrl": "https://ryusenjinoyu.com/saunametsaoimachi/",
     "siteStatus": "verified",
     "closed": false,
-    "siteNote": ""
+    "siteNote": "",
+    "originalName": "サウナメッツァ大井町トラックス",
+    "nameSource": "https://ryusenjinoyu.com/saunametsaoimachi/",
+    "nameReview": "official-site"
   },
   {
     "id": "sauna-3-30",
@@ -996,7 +1107,10 @@
     "officialUrl": "https://yutonamisha.com/sento/umeyu/",
     "siteStatus": "verified",
     "closed": false,
-    "siteNote": ""
+    "siteNote": "",
+    "originalName": "サウナの梅湯",
+    "nameSource": "https://yutonamisha.com/sento/umeyu/",
+    "nameReview": "official-site"
   },
   {
     "id": "sauna-4-01",
@@ -1048,16 +1162,25 @@
   },
   {
     "id": "sauna-4-04",
-    "name": "満天の湯",
+    "name": "天然温泉 満天の湯",
     "tier": "4",
     "note": "",
     "area": "",
-    "photo": "",
+    "photo": "https://static.onsen.nifty.com/terme/230225533362/9b4161c0-bddb-486a-93c3-e2a0639e8fad.jpg",
     "ordinal": 3,
     "officialUrl": "https://mantennoyu.com/",
     "siteStatus": "verified",
     "closed": false,
-    "siteNote": ""
+    "siteNote": "",
+    "originalName": "満天の湯",
+    "nameSource": "https://mantennoyu.com/",
+    "nameReview": "official-site",
+    "photoSource": "https://onsen.nifty.com/onsen-matome/230225533362/",
+    "photoCredit": "ニフティ温泉（満天の湯施設紹介）",
+    "photoSubject": "タワーサウナ",
+    "photoType": "editorial-photo",
+    "photoUsageStatus": "実施設の取材記事または公式ページに掲載された写真の外部画像URLを参照。画像転載・二次利用の許諾は未確認。",
+    "photoSourceReviewedAt": "2026-10-10"
   },
   {
     "id": "sauna-4-05",
@@ -1097,12 +1220,21 @@
     "tier": "4",
     "note": "",
     "area": "",
-    "photo": "",
+    "photo": "https://storage.googleapis.com/studio-cms-assets/projects/Kwa5mPwraX/s-2400x1600_v-frms_webp_a3a5ac86-358f-4645-9680-5d84c33f8b2c.jpg",
     "ordinal": 6,
     "officialUrl": "https://www.4126.tokyo/",
     "siteStatus": "verified",
     "closed": false,
-    "siteNote": ""
+    "siteNote": "",
+    "originalName": "堀田湯",
+    "nameSource": "https://www.4126.tokyo/",
+    "nameReview": "official-site",
+    "photoSource": "https://saunaconnection.studio.site/article/ixckVA0v",
+    "photoCredit": "サウナコネクション（堀田湯取材）",
+    "photoSubject": "深い水風呂",
+    "photoType": "editorial-photo",
+    "photoUsageStatus": "実施設の取材記事または公式ページに掲載された写真の外部画像URLを参照。画像転載・二次利用の許諾は未確認。",
+    "photoSourceReviewedAt": "2026-10-10"
   },
   {
     "id": "sauna-4-08",
@@ -1154,7 +1286,7 @@
   },
   {
     "id": "sauna-4-11",
-    "name": "カプセルインミナミ立川店",
+    "name": "カプセルインミナミ 立川店",
     "tier": "4",
     "note": "",
     "area": "",
@@ -1163,7 +1295,10 @@
     "officialUrl": "https://sauna.meiseikosan.com/tachikawa/",
     "siteStatus": "verified",
     "closed": false,
-    "siteNote": ""
+    "siteNote": "",
+    "originalName": "カプセルインミナミ立川店",
+    "nameSource": "https://sauna.meiseikosan.com/tachikawa/",
+    "nameReview": "official-site"
   },
   {
     "id": "sauna-4-12",
@@ -1224,20 +1359,32 @@
     "officialUrl": "https://www.komaeyu.com/",
     "siteStatus": "verified",
     "closed": false,
-    "siteNote": ""
+    "siteNote": "",
+    "originalName": "狛江湯",
+    "nameSource": "https://www.komaeyu.com/",
+    "nameReview": "official-site"
   },
   {
     "id": "sauna-4-16",
-    "name": "黄金湯　新宿",
+    "name": "黄金湯 新宿店",
     "tier": "4",
     "note": "",
     "area": "",
-    "photo": "",
+    "photo": "https://images.microcms-assets.io/assets/6e4c33ab994e413a8b9082545bbcda3e/bbed1c12337d4d5ba4ea9d33420be26c/IMG_4372.jpg?fm=webp&q=80",
     "ordinal": 15,
     "officialUrl": "https://koganeyu.com/",
     "siteStatus": "verified",
     "closed": false,
-    "siteNote": ""
+    "siteNote": "",
+    "originalName": "黄金湯　新宿",
+    "nameSource": "https://koganeyu.com/posts/20260130",
+    "nameReview": "official-site",
+    "photoSource": "https://chillplus.jp/special-contents/koganeyu-shinjuku",
+    "photoCredit": "Chill+（黄金湯新宿店の取材記事）",
+    "photoSubject": "施設のロッカールーム",
+    "photoType": "editorial-photo",
+    "photoUsageStatus": "実施設の取材記事または公式ページに掲載された写真の外部画像URLを参照。画像転載・二次利用の許諾は未確認。",
+    "photoSourceReviewedAt": "2026-10-10"
   },
   {
     "id": "sauna-5-01",
@@ -1250,7 +1397,10 @@
     "officialUrl": "https://hatonoyu.jp/",
     "siteStatus": "verified",
     "closed": false,
-    "siteNote": ""
+    "siteNote": "",
+    "originalName": "鳩の湯",
+    "nameSource": "https://hatonoyu.jp/",
+    "nameReview": "official-site"
   },
   {
     "id": "sauna-5-02",
@@ -1263,7 +1413,10 @@
     "officialUrl": "https://www.1010.or.jp/map/item/item-cnt-652",
     "siteStatus": "directory",
     "closed": false,
-    "siteNote": "東京都立川市羽衣町の松見湯として2026-10-10 利用者が特定を確認。独自公式HP未確認のため東京都浴場組合の施設ページを案内。"
+    "siteNote": "東京都立川市羽衣町の松見湯として2026-10-10 利用者が特定を確認。独自公式HP未確認のため東京都浴場組合の施設ページを案内。",
+    "originalName": "松見湯",
+    "nameSource": "https://www.city.tachikawa.lg.jp/kurashi/shohiseikatsu/1002223/1002235.html",
+    "nameReview": "municipal-record"
   },
   {
     "id": "sauna-5-03",
@@ -1287,12 +1440,21 @@
     "tier": "5",
     "note": "",
     "area": "",
-    "photo": "",
+    "photo": "https://chillplus.jp/_next/image?q=80&url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F6e4c33ab994e413a8b9082545bbcda3e%2F7e091dc83d0a40e1bb9497c792feb368%2FIMG_0240.JPG%3Ffm%3Dwebp%26q%3D80&w=1920",
     "ordinal": 3,
     "officialUrl": "https://egotayu.com/",
     "siteStatus": "verified",
     "closed": false,
-    "siteNote": ""
+    "siteNote": "",
+    "originalName": "えごた湯",
+    "nameSource": "https://egotayu.com/",
+    "nameReview": "official-site",
+    "photoSource": "https://chillplus.jp/spot/egotayu",
+    "photoCredit": "Chill+（えごた湯施設取材）",
+    "photoSubject": "地下の浴槽",
+    "photoType": "editorial-photo",
+    "photoUsageStatus": "実施設の取材記事または公式ページに掲載された写真の外部画像URLを参照。画像転載・二次利用の許諾は未確認。",
+    "photoSourceReviewedAt": "2026-10-10"
   },
   {
     "id": "sauna-5-05",
