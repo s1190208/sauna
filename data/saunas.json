@@ -251,7 +251,7 @@
   },
   {
     "id": "sauna-2-04",
-    "name": "サウナセンター",
+    "name": "サウナセンター鶯谷本店",
     "tier": "2",
     "note": "サ飯、水風呂",
     "area": "",
@@ -260,7 +260,10 @@
     "officialUrl": "https://sauna-center.jp/",
     "siteStatus": "verified",
     "closed": false,
-    "siteNote": ""
+    "siteNote": "ユーザーが鶯谷本店と明示確認。所在地は東京都台東区下谷2-4-7。サウナセンター稲荷町店とは別施設。",
+    "originalName": "サウナセンター",
+    "nameSource": "https://sauna-center.jp/",
+    "nameReview": "user-confirmed; official-site corroborated"
   },
   {
     "id": "sauna-2-05",
